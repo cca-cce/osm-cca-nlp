@@ -37,63 +37,64 @@ id	sentence_number	token_number	token_text	token_lemma	token_pos	token_entity
 
 "	SPACE	
 1	1	18	Lund	Lund	PROPN	ORG
-1	1	19	Universitys	Universitys	PROPN	ORG
-1	1	20	strategy	strategy	NOUN	
-1	1	21	for	for	ADP	
-1	1	22	sustainable	sustainable	ADJ	
-1	1	23	development	development	NOUN	
-1	1	24	20192026	20192026	NUM	DATE
-1	1	25	" 
+1	1	19	University	University	PROPN	ORG
+1	1	20	’s	’s	PART	ORG
+1	1	21	strategy	strategy	NOUN	
+1	1	22	for	for	ADP	
+1	1	23	sustainable	sustainable	ADJ	
+1	1	24	development	development	NOUN	
+1	1	25	2019–2026	2019–2026	NUM	
+1	1	26	" 
 "	" 
 "	SPACE	
-1	1	26	Approved	approve	VERB	
-1	1	27	by	by	ADP	
-1	1	28	the	the	DET	
-1	1	29	vice	vice	NOUN	
-1	1	30	-	-	NOUN	
-1	1	31	chancellor	chancellor	NOUN	
-1	1	32	19	19	NUM	DATE
-1	1	33	September	September	PROPN	DATE
-1	1	34	2019	2019	NUM	DATE
-1	1	35	" 
+1	1	27	Approved	approve	VERB	
+1	1	28	by	by	ADP	
+1	1	29	the	the	DET	
+1	1	30	vice	vice	NOUN	
+1	1	31	-	-	NOUN	
+1	1	32	chancellor	chancellor	NOUN	
+1	1	33	19	19	NUM	DATE
+1	1	34	September	September	PROPN	DATE
+1	1	35	2019	2019	NUM	DATE
+1	1	36	" 
 
 "	" 
 
 "	SPACE	
-1	1	36	Lund	Lund	PROPN	ORG
-1	1	37	University	University	PROPN	ORG
-1	1	38	is	be	AUX	
-1	1	39	to	to	PART	
-1	1	40	understand	understand	VERB	
-1	1	41	,	,	PUNCT	
-1	1	42	explain	explain	VERB	
-1	1	43	and	and	CCONJ	
-1	1	44	improve	improve	VERB	
-1	1	45	our	our	PRON	
-1	1	46	world	world	NOUN	
-1	1	47	and	and	CCONJ	
-1	1	48	the	the	DET	
-1	1	49	human	human	ADJ	
-1	1	50	"
+1	1	37	Lund	Lund	PROPN	ORG
+1	1	38	University	University	PROPN	ORG
+1	1	39	is	be	AUX	
+1	1	40	to	to	PART	
+1	1	41	understand	understand	VERB	
+1	1	42	,	,	PUNCT	
+1	1	43	explain	explain	VERB	
+1	1	44	and	and	CCONJ	
+1	1	45	improve	improve	VERB	
+1	1	46	our	our	PRON	
+1	1	47	world	world	NOUN	
+1	1	48	and	and	CCONJ	
+1	1	49	the	the	DET	
+1	1	50	human	human	ADJ	
+1	1	51	"
 "	"
 "	SPACE	
-1	1	51	condition	condition	NOUN	
-1	1	52	" 
+1	1	52	condition	condition	NOUN	
+1	1	53	" 
 "	" 
 "	SPACE	
-1	1	53	and	and	CCONJ	
-1	1	54	by	by	ADP	
-1	1	55	doing	do	VERB	
-1	1	56	so	so	ADV	
-1	1	57	act	act	VERB	
-1	1	58	as	as	ADP	
-1	1	59	a	a	DET	
-1	1	60	driving	drive	VERB	
-1	1	61	force	force	NOUN	
-1	1	62	for	for	ADP	
-1	1	63	sustainable	sustainable	ADJ	
-1	1	64	development	development	NOUN	
-1	1	65	.	.	PUNCT	
+1	1	54	and	and	CCONJ	
+1	1	55	by	by	ADP	
+1	1	56	doing	do	VERB	
+1	1	57	so	so	ADV	
+1	1	58	act	act	VERB	
+1	1	59	as	as	ADP	
+1	1	60	a	a	DET	
+1	1	61	driving	drive	VERB	
+1	1	62	force	force	NOUN	
+1	1	63	for	for	ADP	
+1	1	64	sustainable	sustainable	ADJ	
+1	1	65	development	development	NOUN	
+1	1	66	.	.	PUNCT	
 1	2	1	The	the	DET	ORG
 1	2	2	"
 "	"
@@ -147,27 +148,29 @@ id	sentence_number	token_number	token_text	token_lemma	token_pos	token_entity
 1	3	6	sustainable	sustainable	ADJ	
 1	3	7	world	world	NOUN	
 1	3	8	,	,	PUNCT	
-1	3	9	peoples	people	NOUN	
-1	3	10	needs	need	NOUN	
-1	3	11	are	be	AUX	
-1	3	12	met	meet	VERB	
-1	3	13	without	without	ADP	
-1	3	14	compromising	compromise	VERB	
-1	3	15	future	future	NOUN	
-1	3	16	"
+1	3	9	people	people	NOUN	
+1	3	10	’s	’s	PART	
+1	3	11	needs	need	NOUN	
+1	3	12	are	be	AUX	
+1	3	13	met	meet	VERB	
+1	3	14	without	without	ADP	
+1	3	15	compromising	compromise	VERB	
+1	3	16	future	future	NOUN	
+1	3	17	"
 "	"
 "	SPACE	
-1	3	17	generations	generation	NOUN	
-1	3	18	possibili-	possibili-	ADV	
-1	3	19	" 
+1	3	18	generations	generation	NOUN	
+1	3	19	’	'	PUNCT	
+1	3	20	possibili-	possibili-	ADJ	
+1	3	21	" 
 "	" 
 "	SPACE	
-1	3	20	ties	tie	NOUN	
-1	3	21	to	to	PART	
-1	3	22	meet	meet	VERB	
-1	3	23	their	their	PRON	
-1	3	24	needs	need	NOUN	
-1	3	25	.	.	PUNCT	
+1	3	22	ties	tie	NOUN	
+1	3	23	to	to	PART	
+1	3	24	meet	meet	VERB	
+1	3	25	their	their	PRON	
+1	3	26	needs	need	NOUN	
+1	3	27	.	.	PUNCT	
 1	4	1	This	this	PRON	
 1	4	2	requires	require	VERB	
 1	4	3	that	that	SCONJ	
@@ -206,12 +209,13 @@ id	sentence_number	token_number	token_text	token_lemma	token_pos	token_entity
 1	4	30	" 
 "	" 
 "	SPACE	
-1	4	31	Earths	earth	NOUN	
-1	4	32	resources	resource	NOUN	
-1	4	33	are	be	AUX	
-1	4	34	not	not	PART	
-1	4	35	depleted	deplete	VERB	
-1	4	36	.	.	PUNCT	
+1	4	31	Earth	Earth	PROPN	LOC
+1	4	32	’s	’s	PART	
+1	4	33	resources	resource	NOUN	
+1	4	34	are	be	AUX	
+1	4	35	not	not	PART	
+1	4	36	depleted	deplete	VERB	
+1	4	37	.	.	PUNCT	
 1	5	1	Such	such	DET	
 1	5	2	a	a	DET	
 1	5	3	global	global	ADJ	
@@ -229,33 +233,35 @@ id	sentence_number	token_number	token_text	token_lemma	token_pos	token_entity
 "	" 
 "	SPACE	
 1	5	13	the	the	DET	
-1	5	14	UNs	uns	NOUN	
-1	5	15	17	17	NUM	CARDINAL
-1	5	16	sustainable	sustainable	ADJ	
-1	5	17	development	development	NOUN	
-1	5	18	goals	goal	NOUN	
-1	5	19	from	from	ADP	
-1	5	20	2015	2015	NUM	DATE
-1	5	21	.	.	PUNCT	
+1	5	14	UN	UN	PROPN	ORG
+1	5	15	’s	’s	PART	
+1	5	16	17	17	NUM	CARDINAL
+1	5	17	sustainable	sustainable	ADJ	
+1	5	18	development	development	NOUN	
+1	5	19	goals	goal	NOUN	
+1	5	20	from	from	ADP	
+1	5	21	2015	2015	NUM	DATE
+1	5	22	.	.	PUNCT	
 1	6	1	The	the	DET	
-1	6	2	UNs	uns	NOUN	
-1	6	3	Agenda	Agenda	PROPN	PERSON
-1	6	4	2030	2030	NUM	PERSON
-1	6	5	"
+1	6	2	UN	UN	PROPN	ORG
+1	6	3	’s	’s	PART	
+1	6	4	Agenda	Agenda	PROPN	
+1	6	5	2030	2030	NUM	DATE
+1	6	6	"
 "	"
-"	SPACE	PERSON
-1	6	6	states	state	VERB	PERSON
-1	6	7	how	how	SCONJ	
-1	6	8	these	these	DET	
-1	6	9	" 
+"	SPACE	
+1	6	7	states	state	VERB	
+1	6	8	how	how	SCONJ	
+1	6	9	these	these	DET	
+1	6	10	" 
 "	" 
 "	SPACE	
-1	6	10	goals	goal	NOUN	
-1	6	11	are	be	AUX	
-1	6	12	to	to	PART	
-1	6	13	be	be	AUX	
-1	6	14	achieved	achieve	VERB	
-1	6	15	.	.	PUNCT	
+1	6	11	goals	goal	NOUN	
+1	6	12	are	be	AUX	
+1	6	13	to	to	PART	
+1	6	14	be	be	AUX	
+1	6	15	achieved	achieve	VERB	
+1	6	16	.	.	PUNCT	
 1	7	1	The	the	DET	
 1	7	2	sustainable	sustainable	ADJ	
 1	7	3	development	development	NOUN	
@@ -441,22 +447,23 @@ id	sentence_number	token_number	token_text	token_lemma	token_pos	token_entity
 1	9	75	" 
 "	" 
 "	SPACE	
-1	9	76	Earths	earth	NOUN	
-1	9	77	resources	resource	NOUN	
-1	9	78	,	,	PUNCT	
-1	9	79	depletion	depletion	NOUN	
-1	9	80	of	of	ADP	
-1	9	81	biodiversity	biodiversity	NOUN	
-1	9	82	,	,	PUNCT	
-1	9	83	other	other	ADJ	
-1	9	84	environmental	environmental	ADJ	
-1	9	85	pollution	pollution	NOUN	
-1	9	86	"
+1	9	76	Earth	Earth	PROPN	LOC
+1	9	77	’s	’s	PART	
+1	9	78	resources	resource	NOUN	
+1	9	79	,	,	PUNCT	
+1	9	80	depletion	depletion	NOUN	
+1	9	81	of	of	ADP	
+1	9	82	biodiversity	biodiversity	NOUN	
+1	9	83	,	,	PUNCT	
+1	9	84	other	other	ADJ	
+1	9	85	environmental	environmental	ADJ	
+1	9	86	pollution	pollution	NOUN	
+1	9	87	"
 "	"
 "	SPACE	
-1	9	87	and	and	CCONJ	
-1	9	88	conflicts	conflict	NOUN	
-1	9	89	.	.	PUNCT	
+1	9	88	and	and	CCONJ	
+1	9	89	conflicts	conflict	NOUN	
+1	9	90	.	.	PUNCT	
 1	10	1	In	in	ADP	
 1	10	2	many	many	ADJ	
 1	10	3	" 
@@ -563,47 +570,50 @@ id	sentence_number	token_number	token_text	token_lemma	token_pos	token_entity
 "	SPACE	
 1	12	20	perspective	perspective	NOUN	
 1	12	21	.	.	PUNCT	
-1	13	1	Lund	lund	ADJ	
-1	13	2	Universitys	Universitys	PROPN	
-1	13	3	strategy	strategy	NOUN	
-1	13	4	for	for	ADP	
-1	13	5	sustainable	sustainable	ADJ	
-1	13	6	development	development	NOUN	
-1	13	7	complements	complement	NOUN	
-1	13	8	the	the	DET	
-1	13	9	"
+1	13	1	Lund	Lund	PROPN	ORG
+1	13	2	University	University	PROPN	ORG
+1	13	3	’s	’s	PART	ORG
+1	13	4	strategy	strategy	NOUN	
+1	13	5	for	for	ADP	
+1	13	6	sustainable	sustainable	ADJ	
+1	13	7	development	development	NOUN	
+1	13	8	complements	complement	NOUN	
+1	13	9	the	the	DET	
+1	13	10	"
 "	"
 "	SPACE	
-1	13	10	Universitys	universitys	ADJ	ORG
-1	13	11	strategic	strategic	ADJ	
-1	13	12	plan	plan	NOUN	
-1	13	13	" 
+1	13	11	University	University	PROPN	ORG
+1	13	12	’s	’s	PART	
+1	13	13	strategic	strategic	ADJ	
+1	13	14	plan	plan	NOUN	
+1	13	15	" 
 "	" 
 "	SPACE	
-1	13	14	and	and	CCONJ	
-1	13	15	observes	observe	VERB	
-1	13	16	the	the	DET	
-1	13	17	Higher	high	ADJ	
-1	13	18	Education	Education	PROPN	
-1	13	19	Act1	act1	NOUN	
-1	13	20	.	.	PUNCT	
+1	13	16	and	and	CCONJ	
+1	13	17	observes	observe	VERB	
+1	13	18	the	the	DET	
+1	13	19	Higher	high	ADJ	
+1	13	20	Education	Education	PROPN	
+1	13	21	Act1	act1	NOUN	
+1	13	22	.	.	PUNCT	
 1	14	1	The	the	DET	
 1	14	2	strategy	strategy	NOUN	
 1	14	3	covers	cover	VERB	
 1	14	4	the	the	DET	
-1	14	5	Universitys	Universitys	PROPN	ORG
-1	14	6	"
+1	14	5	University	University	PROPN	ORG
+1	14	6	’s	’s	PART	
+1	14	7	"
 "	"
 "	SPACE	
-1	14	7	entire	entire	ADJ	
-1	14	8	organisation	organisation	NOUN	
-1	14	9	and	and	CCONJ	
-1	14	10	" 
+1	14	8	entire	entire	ADJ	
+1	14	9	organisation	organisation	NOUN	
+1	14	10	and	and	CCONJ	
+1	14	11	" 
 "	" 
 "	SPACE	
-1	14	11	all	all	DET	
-1	14	12	employees	employee	NOUN	
-1	14	13	.	.	PUNCT	
+1	14	12	all	all	DET	
+1	14	13	employees	employee	NOUN	
+1	14	14	.	.	PUNCT	
 1	15	1	Implementation	implementation	NOUN	
 1	15	2	of	of	ADP	
 1	15	3	the	the	DET	
@@ -630,44 +640,45 @@ id	sentence_number	token_number	token_text	token_lemma	token_pos	token_entity
 1	16	1	The	the	DET	
 1	16	2	requirement	requirement	NOUN	
 1	16	3	for	for	ADP	
-1	16	4	Swedens	Swedens	PROPN	ORG
-1	16	5	higher	high	ADJ	
-1	16	6	education	education	NOUN	
-1	16	7	institutions	institution	NOUN	
-1	16	8	to	to	PART	
-1	16	9	promote	promote	VERB	
-1	16	10	all	all	DET	
-1	16	11	"
+1	16	4	Sweden	Sweden	PROPN	GPE
+1	16	5	’s	’s	PART	
+1	16	6	higher	high	ADJ	
+1	16	7	education	education	NOUN	
+1	16	8	institutions	institution	NOUN	
+1	16	9	to	to	PART	
+1	16	10	promote	promote	VERB	
+1	16	11	all	all	DET	
+1	16	12	"
 "	"
 "	SPACE	
-1	16	12	dimensions	dimension	NOUN	
-1	16	13	of	of	ADP	
-1	16	14	sustainable	sustainable	ADJ	
-1	16	15	" 
+1	16	13	dimensions	dimension	NOUN	
+1	16	14	of	of	ADP	
+1	16	15	sustainable	sustainable	ADJ	
+1	16	16	" 
 
 "	" 
 
 "	SPACE	
-1	16	16	development	development	NOUN	
-1	16	17	is	be	AUX	
-1	16	18	stated	state	VERB	
-1	16	19	in	in	ADP	
-1	16	20	the	the	DET	LAW
-1	16	21	Higher	Higher	PROPN	LAW
-1	16	22	Education	Education	PROPN	LAW
-1	16	23	Act	Act	PROPN	LAW
-1	16	24	(	(	PUNCT	
-1	16	25	1992:1434	1992:1434	NUM	CARDINAL
-1	16	26	Chapter	chapter	NOUN	LAW
-1	16	27	1	1	NUM	LAW
-1	16	28	,	,	PUNCT	
-1	16	29	"
+1	16	17	development	development	NOUN	
+1	16	18	is	be	AUX	
+1	16	19	stated	state	VERB	
+1	16	20	in	in	ADP	
+1	16	21	the	the	DET	LAW
+1	16	22	Higher	Higher	PROPN	LAW
+1	16	23	Education	Education	PROPN	LAW
+1	16	24	Act	Act	PROPN	LAW
+1	16	25	(	(	PUNCT	
+1	16	26	1992:1434	1992:1434	NUM	CARDINAL
+1	16	27	Chapter	chapter	NOUN	LAW
+1	16	28	1	1	NUM	LAW
+1	16	29	,	,	PUNCT	
+1	16	30	"
 "	"
 "	SPACE	
-1	16	30	Section	Section	PROPN	LAW
-1	16	31	5	5	NUM	LAW
-1	16	32	)	)	PUNCT	
-1	16	33	.	.	PUNCT	
+1	16	31	Section	Section	PROPN	LAW
+1	16	32	5	5	NUM	LAW
+1	16	33	)	)	PUNCT	
+1	16	34	.	.	PUNCT	
 1	17	1	Page	page	NOUN	PERSON
 1	17	2	2	2	NUM	PERSON
 1	17	3	"
@@ -712,15 +723,16 @@ id	sentence_number	token_number	token_text	token_lemma	token_pos	token_entity
 1	17	30	the	the	DET	
 1	17	31	affected	affected	ADJ	
 1	17	32	organisations	organisation	NOUN	
-1	17	33	conditions	condition	NOUN	
-1	17	34	,	,	PUNCT	
-1	17	35	opportunities	opportunity	NOUN	
-1	17	36	and	and	CCONJ	
-1	17	37	"
+1	17	33	’	’	PART	
+1	17	34	conditions	condition	NOUN	
+1	17	35	,	,	PUNCT	
+1	17	36	opportunities	opportunity	NOUN	
+1	17	37	and	and	CCONJ	
+1	17	38	"
 "	"
 "	SPACE	
-1	17	38	needs	need	NOUN	
-1	17	39	.	.	PUNCT	
+1	17	39	needs	need	NOUN	
+1	17	40	.	.	PUNCT	
 1	18	1	The	the	DET	
 1	18	2	aim	aim	NOUN	
 1	18	3	of	of	ADP	
@@ -843,24 +855,25 @@ id	sentence_number	token_number	token_text	token_lemma	token_pos	token_entity
 1	21	13	that	that	PRON	
 1	21	14	affects	affect	VERB	
 1	21	15	the	the	DET	
-1	21	16	Universitys	Universitys	PROPN	ORG
-1	21	17	"
+1	21	16	University	University	PROPN	ORG
+1	21	17	’s	’s	PART	
+1	21	18	"
 "	"
 "	SPACE	
-1	21	18	education	education	NOUN	
-1	21	19	,	,	PUNCT	
-1	21	20	research	research	NOUN	
-1	21	21	,	,	PUNCT	
-1	21	22	exter-	exter-	VERB	
-1	21	23	" 
+1	21	19	education	education	NOUN	
+1	21	20	,	,	PUNCT	
+1	21	21	research	research	NOUN	
+1	21	22	,	,	PUNCT	
+1	21	23	exter-	exter-	VERB	
+1	21	24	" 
 "	" 
 "	SPACE	
-1	21	24	nal	nal	ADJ	
-1	21	25	engagement	engagement	NOUN	
-1	21	26	and	and	CCONJ	
-1	21	27	organisational	organisational	ADJ	
-1	21	28	development	development	NOUN	
-1	21	29	.	.	PUNCT	
+1	21	25	nal	nal	ADJ	
+1	21	26	engagement	engagement	NOUN	
+1	21	27	and	and	CCONJ	
+1	21	28	organisational	organisational	ADJ	
+1	21	29	development	development	NOUN	
+1	21	30	.	.	PUNCT	
 1	22	1	Education	education	NOUN	
 1	22	2	equips	equip	VERB	
 1	22	3	undergraduate	undergraduate	ADJ	
@@ -1093,1763 +1106,1804 @@ id	sentence_number	token_number	token_text	token_lemma	token_pos	token_entity
 1	28	3	visions	vision	NOUN	
 1	28	4	" 
 
- "	" 
+"	" 
 
- "	SPACE	
-1	28	5	Lund	Lund	PROPN	ORG
-1	28	6	University	University	PROPN	ORG
-1	28	7	integrates	integrate	VERB	
-1	28	8	sustainable	sustainable	ADJ	
-1	28	9	development	development	NOUN	
-1	28	10	in	in	ADP	
-1	28	11	its	its	PRON	
-1	28	12	education	education	NOUN	
-1	28	13	,	,	PUNCT	
-1	28	14	"
-"	"
 "	SPACE	
-1	28	15	research	research	NOUN	
-1	28	16	,	,	PUNCT	
-1	28	17	external	external	ADJ	
-1	28	18	engage-	engage-	NOUN	
-1	28	19	" 
-"	" 
-"	SPACE	
-1	28	20	ment	ment	NOUN	
-1	28	21	and	and	CCONJ	
-1	28	22	organisational	organisational	ADJ	
-1	28	23	development	development	NOUN	
-1	28	24	,	,	PUNCT	
-1	28	25	and	and	CCONJ	
-1	28	26	the	the	DET	
-1	28	27	Universitys	Universitys	PROPN	ORG
-1	28	28	employees	employee	NOUN	
-1	28	29	are	be	AUX	
-1	28	30	well	well	ADV	
-1	28	31	"
-"	"
-"	SPACE	
-1	28	32	aware	aware	ADJ	
-1	28	33	of	of	ADP	
-1	28	34	their	their	PRON	
-1	28	35	" 
-"	" 
-"	SPACE	
-1	28	36	roles	role	NOUN	
-1	28	37	in	in	ADP	
-1	28	38	this	this	DET	
-1	28	39	work	work	NOUN	
-1	28	40	.	.	PUNCT	
+1	28	5			NOUN	
 1	29	1	Lund	Lund	PROPN	ORG
 1	29	2	University	University	PROPN	ORG
-1	29	3	is	be	AUX	
-1	29	4	involved	involve	VERB	
-1	29	5	in	in	ADP	
-1	29	6	local	local	ADJ	
-1	29	7	,	,	PUNCT	
-1	29	8	regional	regional	ADJ	
+1	29	3	integrates	integrate	VERB	
+1	29	4	sustainable	sustainable	ADJ	
+1	29	5	development	development	NOUN	
+1	29	6	in	in	ADP	
+1	29	7	its	its	PRON	
+1	29	8	education	education	NOUN	
 1	29	9	,	,	PUNCT	
-1	29	10	national	national	ADJ	
-1	29	11	and	and	CCONJ	
-1	29	12	global	global	ADJ	
-1	29	13	social	social	ADJ	
-1	29	14	"
+1	29	10	"
 "	"
 "	SPACE	
-1	29	15	arenas2	arenas2	NOUN	
-1	29	16	in	in	ADP	
-1	29	17	order	order	NOUN	
-1	29	18	for	for	ADP	
-1	29	19	" 
+1	29	11	research	research	NOUN	
+1	29	12	,	,	PUNCT	
+1	29	13	external	external	ADJ	
+1	29	14	engage-	engage-	NOUN	
+1	29	15	" 
 "	" 
 "	SPACE	
-1	29	20	scientific	scientific	ADJ	
-1	29	21	knowledge	knowledge	NOUN	
-1	29	22	to	to	PART	
-1	29	23	provide	provide	VERB	
-1	29	24	leverage	leverage	NOUN	
-1	29	25	in	in	ADP	
-1	29	26	societys	societys	NOUN	
-1	29	27	striving	striving	NOUN	
-1	29	28	for	for	ADP	
-1	29	29	"
+1	29	16	ment	ment	NOUN	
+1	29	17	and	and	CCONJ	
+1	29	18	organisational	organisational	ADJ	
+1	29	19	development	development	NOUN	
+1	29	20	,	,	PUNCT	
+1	29	21	and	and	CCONJ	
+1	29	22	the	the	DET	
+1	29	23	University	University	PROPN	ORG
+1	29	24	’s	’s	PART	
+1	29	25	employees	employee	NOUN	
+1	29	26	are	be	AUX	
+1	29	27	well	well	ADV	
+1	29	28	"
 "	"
 "	SPACE	
-1	29	30	sustainability	sustainability	NOUN	
-1	29	31	,	,	PUNCT	
-1	29	32	in	in	ADP	
-1	29	33	both	both	CCONJ	
-1	29	34	the	the	DET	
-1	29	35	" 
+1	29	29	aware	aware	ADJ	
+1	29	30	of	of	ADP	
+1	29	31	their	their	PRON	
+1	29	32	" 
 "	" 
 "	SPACE	
-1	29	36	short	short	ADJ	
-1	29	37	and	and	CCONJ	
-1	29	38	long	long	ADJ	
-1	29	39	term	term	NOUN	
-1	29	40	.	.	PUNCT	
-1	30	1	Lund	Lund	PROPN	ORG
-1	30	2	University	University	PROPN	ORG
-1	30	3	is	be	AUX	
-1	30	4	a	a	DET	
-1	30	5	prominent	prominent	ADJ	
-1	30	6	voice	voice	NOUN	
-1	30	7	in	in	ADP	
-1	30	8	the	the	DET	
-1	30	9	field	field	NOUN	
-1	30	10	of	of	ADP	
-1	30	11	sustainability	sustainability	NOUN	
-1	30	12	within	within	ADP	
-1	30	13	"
-"	"
-"	SPACE	
-1	30	14	research	research	NOUN	
-1	30	15	and	and	CCONJ	
-1	30	16	" 
-
-"	" 
-
-"	SPACE	
-1	30	17	teaching	teaching	NOUN	
-1	30	18	as	as	ADV	
-1	30	19	well	well	ADV	
-1	30	20	as	as	ADP	
-1	30	21	in	in	ADP	
-1	30	22	public	public	ADJ	
-1	30	23	debate	debate	NOUN	
-1	30	24	and	and	CCONJ	
-1	30	25	cultural	cultural	ADJ	
-1	30	26	life	life	NOUN	
-1	30	27	.	.	PUNCT	
+1	29	33	roles	role	NOUN	
+1	29	34	in	in	ADP	
+1	29	35	this	this	DET	
+1	29	36	work	work	NOUN	
+1	29	37	.	.	PUNCT	
+1	30	1			NOUN	
 1	31	1	Lund	Lund	PROPN	ORG
 1	31	2	University	University	PROPN	ORG
-1	31	3	communicates	communicate	VERB	
-1	31	4	its	its	PRON	
-1	31	5	sustainability	sustainability	NOUN	
-1	31	6	-	-	PUNCT	
-1	31	7	related	relate	VERB	
-1	31	8	work	work	NOUN	
-1	31	9	within	within	ADP	
-1	31	10	the	the	DET	
-1	31	11	"
+1	31	3	is	be	AUX	
+1	31	4	involved	involve	VERB	
+1	31	5	in	in	ADP	
+1	31	6	local	local	ADJ	
+1	31	7	,	,	PUNCT	
+1	31	8	regional	regional	ADJ	
+1	31	9	,	,	PUNCT	
+1	31	10	national	national	ADJ	
+1	31	11	and	and	CCONJ	
+1	31	12	global	global	ADJ	
+1	31	13	social	social	ADJ	
+1	31	14	"
 "	"
 "	SPACE	
-1	31	12	organisation	organisation	NOUN	
-1	31	13	and	and	CCONJ	
-1	31	14	to	to	PART	
-1	31	15	" 
+1	31	15	arenas2	arenas2	NOUN	
+1	31	16	in	in	ADP	
+1	31	17	order	order	NOUN	
+1	31	18	for	for	ADP	
+1	31	19	" 
 "	" 
 "	SPACE	
-1	31	16	wider	wide	ADJ	
-1	31	17	society	society	NOUN	
-1	31	18	in	in	ADP	
-1	31	19	ways	way	NOUN	
-1	31	20	that	that	PRON	
-1	31	21	make	make	VERB	
-1	31	22	it	it	PRON	
-1	31	23	easy	easy	ADJ	
-1	31	24	to	to	PART	
-1	31	25	both	both	PRON	
-1	31	26	reach	reach	VERB	
-1	31	27	out	out	ADP	
-1	31	28	and	and	CCONJ	
-1	31	29	gain	gain	VERB	
-1	31	30	access	access	NOUN	
-1	31	31	to	to	ADP	
-1	31	32	"
+1	31	20	scientific	scientific	ADJ	
+1	31	21	knowledge	knowledge	NOUN	
+1	31	22	to	to	PART	
+1	31	23	provide	provide	VERB	
+1	31	24	leverage	leverage	NOUN	
+1	31	25	in	in	ADP	
+1	31	26	society	society	NOUN	
+1	31	27	’s	’s	PART	
+1	31	28	striving	strive	VERB	
+1	31	29	for	for	ADP	
+1	31	30	"
 "	"
 "	SPACE	
-1	31	33	its	its	PRON	
-1	31	34	activities	activity	NOUN	
-1	31	35	.	.	PUNCT	
-1	32	1	2.2	2.2	NUM	CARDINAL
-1	32	2	" 
+1	31	31	sustainability	sustainability	NOUN	
+1	31	32	,	,	PUNCT	
+1	31	33	in	in	ADP	
+1	31	34	both	both	CCONJ	
+1	31	35	the	the	DET	
+1	31	36	" 
+"	" 
+"	SPACE	
+1	31	37	short	short	ADJ	
+1	31	38	and	and	CCONJ	
+1	31	39	long	long	ADJ	
+1	31	40	term	term	NOUN	
+1	31	41	.	.	PUNCT	
+1	32	1			NOUN	
+1	33	1	Lund	Lund	PROPN	ORG
+1	33	2	University	University	PROPN	ORG
+1	33	3	is	be	AUX	
+1	33	4	a	a	DET	
+1	33	5	prominent	prominent	ADJ	
+1	33	6	voice	voice	NOUN	
+1	33	7	in	in	ADP	
+1	33	8	the	the	DET	
+1	33	9	field	field	NOUN	
+1	33	10	of	of	ADP	
+1	33	11	sustainability	sustainability	NOUN	
+1	33	12	within	within	ADP	
+1	33	13	"
+"	"
+"	SPACE	
+1	33	14	research	research	NOUN	
+1	33	15	and	and	CCONJ	
+1	33	16	" 
 
 "	" 
 
 "	SPACE	
-1	32	3	Education	Education	PROPN	
-1	32	4	and	and	CCONJ	
-1	32	5	student	student	NOUN	
-1	32	6	participation	participation	NOUN	
-1	32	7	" 
-
-"	" 
-
-"	SPACE	
-1	32	8	A	a	DET	
-1	32	9	basic	basic	ADJ	
-1	32	10	understanding	understanding	NOUN	
-1	32	11	and	and	CCONJ	
-1	32	12	knowledge	knowledge	NOUN	
-1	32	13	of	of	ADP	
-1	32	14	sustainability	sustainability	NOUN	
-1	32	15	is	be	AUX	
-1	32	16	included	include	VERB	
-1	32	17	in	in	ADP	
-1	32	18	"
+1	33	17	teaching	teaching	NOUN	
+1	33	18	as	as	ADV	
+1	33	19	well	well	ADV	
+1	33	20	as	as	ADP	
+1	33	21	in	in	ADP	
+1	33	22	public	public	ADJ	
+1	33	23	debate	debate	NOUN	
+1	33	24	and	and	CCONJ	
+1	33	25	cultural	cultural	ADJ	
+1	33	26	life	life	NOUN	
+1	33	27	.	.	PUNCT	
+1	34	1			NOUN	
+1	35	1	Lund	Lund	PROPN	ORG
+1	35	2	University	University	PROPN	ORG
+1	35	3	communicates	communicate	VERB	
+1	35	4	its	its	PRON	
+1	35	5	sustainability	sustainability	NOUN	
+1	35	6	-	-	PUNCT	
+1	35	7	related	relate	VERB	
+1	35	8	work	work	NOUN	
+1	35	9	within	within	ADP	
+1	35	10	the	the	DET	
+1	35	11	"
 "	"
 "	SPACE	
-1	32	19	programmes	programme	NOUN	
-1	32	20	in	in	ADP	
-1	32	21	all	all	DET	
-1	32	22	cycles	cycle	NOUN	
-1	32	23	and	and	CCONJ	
-1	32	24	" 
+1	35	12	organisation	organisation	NOUN	
+1	35	13	and	and	CCONJ	
+1	35	14	to	to	PART	
+1	35	15	" 
 "	" 
 "	SPACE	
-1	32	25	within	within	ADP	
-1	32	26	all	all	DET	
-1	32	27	subjects	subject	NOUN	
-1	32	28	.	.	PUNCT	
-1	33	1	This	this	PRON	
-1	33	2	contributes	contribute	VERB	
-1	33	3	to	to	ADP	
-1	33	4	continuous	continuous	ADJ	
-1	33	5	reflection	reflection	NOUN	
-1	33	6	on	on	ADP	
-1	33	7	the	the	DET	
-1	33	8	relation	relation	NOUN	
-1	33	9	"
-"	"
-"	SPACE	
-1	33	10	between	between	ADP	
-1	33	11	education	education	NOUN	
-1	33	12	and	and	CCONJ	
-1	33	13	" 
-"	" 
-"	SPACE	
-1	33	14	sustainable	sustainable	ADJ	
-1	33	15	development	development	NOUN	
-1	33	16	so	so	SCONJ	
-1	33	17	that	that	SCONJ	
-1	33	18	sustainability	sustainability	NOUN	
-1	33	19	aspects	aspect	NOUN	
-1	33	20	are	be	AUX	
-1	33	21	integrated	integrate	VERB	
-1	33	22	in	in	ADP	
-1	33	23	the	the	DET	
-1	33	24	"
-"	"
-"	SPACE	
-1	33	25	students	student	NOUN	
-1	33	26	future	future	ADJ	
-1	33	27	profes-	profes-	PRON	
-1	33	28	" 
-"	" 
-"	SPACE	
-1	33	29	sional	sional	ADJ	
-1	33	30	roles	role	NOUN	
-1	33	31	.	.	PUNCT	
-1	34	1	As	as	ADP	
-1	34	2	a	a	DET	
-1	34	3	part	part	NOUN	
-1	34	4	of	of	ADP	
-1	34	5	a	a	DET	
-1	34	6	functioning	function	VERB	
-1	34	7	student	student	NOUN	
-1	34	8	influence	influence	NOUN	
-1	34	9	,	,	PUNCT	
-1	34	10	students	student	NOUN	
-1	34	11	also	also	ADV	
-1	34	12	"
-"	"
-"	SPACE	
-1	34	13	participate	participate	VERB	
-1	34	14	in	in	ADP	
-1	34	15	the	the	DET	
-1	34	16	work	work	NOUN	
-1	34	17	of	of	ADP	
-1	34	18	in-	in-	ADJ	
-1	34	19	" 
-"	" 
-"	SPACE	
-1	34	20	tegrating	tegrate	VERB	
-1	34	21	sustainable	sustainable	ADJ	
-1	34	22	development	development	NOUN	
-1	34	23	in	in	ADP	
-1	34	24	Lund	Lund	PROPN	GPE
-1	34	25	Universitys	Universitys	PROPN	GPE
-1	34	26	activities	activity	NOUN	
-1	34	27	.	.	PUNCT	
-1	35	1	Visions	vision	NOUN	
-1	35	2	for	for	ADP	
-1	35	3	education	education	NOUN	
-1	35	4	and	and	CCONJ	
-1	35	5	student	student	NOUN	
-1	35	6	participation	participation	NOUN	
-1	35	7	:	:	PUNCT	
-1	35	8	" 
-
-"	" 
-
-"	SPACE	
-1	35	9	2	2	NUM	CARDINAL
-1	35	10	Arenas	Arenas	PROPN	
-1	35	11	and	and	CCONJ	
-1	35	12	initiatives	initiative	NOUN	
-1	35	13	are	be	AUX	
-1	35	14	used	use	VERB	
-1	35	15	as	as	ADP	
-1	35	16	an	an	DET	
-1	35	17	overall	overall	ADJ	
-1	35	18	collective	collective	ADJ	
-1	35	19	term	term	NOUN	
+1	35	16	wider	wide	ADJ	
+1	35	17	society	society	NOUN	
+1	35	18	in	in	ADP	
+1	35	19	ways	way	NOUN	
 1	35	20	that	that	PRON	
-1	35	21	may	may	AUX	
-1	35	22	refer	refer	VERB	
-1	35	23	"
+1	35	21	make	make	VERB	
+1	35	22	it	it	PRON	
+1	35	23	easy	easy	ADJ	
+1	35	24	to	to	PART	
+1	35	25	both	both	PRON	
+1	35	26	reach	reach	VERB	
+1	35	27	out	out	ADP	
+1	35	28	and	and	CCONJ	
+1	35	29	gain	gain	VERB	
+1	35	30	access	access	NOUN	
+1	35	31	to	to	ADP	
+1	35	32	"
 "	"
 "	SPACE	
-1	35	24	to	to	ADP	
-1	35	25	long	long	ADJ	
-1	35	26	-	-	PUNCT	
-1	35	27	term	term	NOUN	
-1	35	28	or	or	CCONJ	
-1	35	29	fixed	fix	VERB	
-1	35	30	-	-	PUNCT	
-1	35	31	term	term	NOUN	
-1	35	32	development	development	NOUN	
-1	35	33	work	work	NOUN	
-1	35	34	,	,	PUNCT	
-1	35	35	" 
+1	35	33	its	its	PRON	
+1	35	34	activities	activity	NOUN	
+1	35	35	.	.	PUNCT	
+1	36	1	2.2	2.2	NUM	CARDINAL
+1	36	2	" 
+
 "	" 
+
 "	SPACE	
-1	35	36	virtual	virtual	ADJ	
-1	35	37	or	or	CCONJ	
-1	35	38	physical	physical	ADJ	
-1	35	39	forums	forum	NOUN	
-1	35	40	,	,	PUNCT	
-1	35	41	external	external	ADJ	
-1	35	42	engagement	engagement	NOUN	
-1	35	43	activities	activity	NOUN	
-1	35	44	,	,	PUNCT	
-1	35	45	etc	etc	X	
-1	35	46	.	.	X	
-1	36	1	Different	different	ADJ	
-1	36	2	"
-"	"
-"	SPACE	
-1	36	3	types	type	NOUN	
-1	36	4	of	of	ADP	
-1	36	5	initiative	initiative	NOUN	
-1	36	6	may	may	AUX	
-1	36	7	be	be	AUX	
-1	36	8	relevant	relevant	ADJ	
-1	36	9	for	for	ADP	
-1	36	10	different	different	ADJ	
-1	36	11	" 
+1	36	3	Education	Education	PROPN	
+1	36	4	and	and	CCONJ	
+1	36	5	student	student	NOUN	
+1	36	6	participation	participation	NOUN	
+1	36	7	" 
+
 "	" 
+
 "	SPACE	
-1	36	12	parts	part	NOUN	
+1	36	8	A	a	DET	
+1	36	9	basic	basic	ADJ	
+1	36	10	understanding	understanding	NOUN	
+1	36	11	and	and	CCONJ	
+1	36	12	knowledge	knowledge	NOUN	
 1	36	13	of	of	ADP	
-1	36	14	the	the	DET	
-1	36	15	University	University	PROPN	ORG
-1	36	16	.	.	PUNCT	
-1	37	1	Page	page	NOUN	
-1	37	2	3	3	NUM	CARDINAL
-1	37	3	"
-
-"	"
-
-"	SPACE	
-1	37	4	3	3	NUM	CARDINAL
-1	37	5	(	(	PUNCT	
-1	37	6	4	4	NUM	
-1	37	7	)	)	PUNCT	
-1	37	8	" 
-
- "	" 
-
- "	SPACE	
-1	37	9	All	all	DET	
-1	37	10	students	student	NOUN	
-1	37	11	acquire	acquire	VERB	
-1	37	12	knowledge	knowledge	NOUN	
-1	37	13	and	and	CCONJ	
-1	37	14	understanding	understanding	NOUN	
-1	37	15	of	of	ADP	
-1	37	16	sustainable	sustainable	ADJ	
-1	37	17	development	development	NOUN	
-1	37	18	"
+1	36	14	sustainability	sustainability	NOUN	
+1	36	15	is	be	AUX	
+1	36	16	included	include	VERB	
+1	36	17	in	in	ADP	
+1	36	18	"
 "	"
 "	SPACE	
-1	37	19	and	and	CCONJ	
-1	37	20	how	how	SCONJ	
-1	37	21	their	their	PRON	
-1	37	22	" 
+1	36	19	programmes	programme	NOUN	
+1	36	20	in	in	ADP	
+1	36	21	all	all	DET	
+1	36	22	cycles	cycle	NOUN	
+1	36	23	and	and	CCONJ	
+1	36	24	" 
 "	" 
 "	SPACE	
-1	37	23	programmes	programme	NOUN	
-1	37	24	relate	relate	VERB	
-1	37	25	to	to	ADP	
-1	37	26	this	this	PRON	
-1	37	27	,	,	PUNCT	
-1	37	28	and	and	CCONJ	
-1	37	29	thereby	thereby	ADV	
-1	37	30	contribute	contribute	VERB	
-1	37	31	expertise	expertise	NOUN	
-1	37	32	in	in	ADP	
-1	37	33	their	their	PRON	
-1	37	34	future	future	ADJ	
-1	37	35	"
+1	36	25	within	within	ADP	
+1	36	26	all	all	DET	
+1	36	27	subjects	subject	NOUN	
+1	36	28	.	.	PUNCT	
+1	37	1	This	this	PRON	
+1	37	2	contributes	contribute	VERB	
+1	37	3	to	to	ADP	
+1	37	4	continuous	continuous	ADJ	
+1	37	5	reflection	reflection	NOUN	
+1	37	6	on	on	ADP	
+1	37	7	the	the	DET	
+1	37	8	relation	relation	NOUN	
+1	37	9	"
 "	"
 "	SPACE	
-1	37	36	roles	role	NOUN	
-1	37	37	in	in	ADP	
-1	37	38	society	society	NOUN	
-1	37	39	.	.	PUNCT	
-1	38	1	There	there	PRON	
-1	38	2	is	be	VERB	
-1	38	3	continuing	continue	VERB	
-1	38	4	professional	professional	ADJ	
-1	38	5	development	development	NOUN	
-1	38	6	within	within	ADP	
-1	38	7	sustainable	sustainable	ADJ	
-1	38	8	development	development	NOUN	
-1	38	9	"
-"	"
-"	SPACE	
-1	38	10	for	for	ADP	
-1	38	11	all	all	DET	
-1	38	12	" 
-
-"	" 
-
-"	SPACE	
-1	38	13	employees	employee	NOUN	
-1	38	14	at	at	ADP	
-1	38	15	Lund	Lund	PROPN	ORG
-1	38	16	University	University	PROPN	ORG
-1	38	17	.	.	PUNCT	
-1	39	1	The	the	DET	
-1	39	2	University	University	PROPN	ORG
-1	39	3	supports	support	VERB	
-1	39	4	student	student	NOUN	
-1	39	5	initiatives	initiative	NOUN	
-1	39	6	in	in	ADP	
-1	39	7	sustainable	sustainable	ADJ	
-1	39	8	development	development	NOUN	
-1	39	9	and	and	CCONJ	
-1	39	10	"
-"	"
-"	SPACE	
-1	39	11	there	there	PRON	
-1	39	12	are	be	VERB	
-1	39	13	op-	op-	X	
-1	39	14	" 
+1	37	10	between	between	ADP	
+1	37	11	education	education	NOUN	
+1	37	12	and	and	CCONJ	
+1	37	13	" 
 "	" 
 "	SPACE	
-1	39	15	portunities	portunitie	NOUN	
-1	39	16	for	for	SCONJ	
-1	39	17	students	student	NOUN	
-1	39	18	to	to	PART	
-1	39	19	participate	participate	VERB	
-1	39	20	in	in	ADP	
-1	39	21	work	work	NOUN	
-1	39	22	to	to	PART	
-1	39	23	achieve	achieve	VERB	
-1	39	24	the	the	DET	
-1	39	25	goals	goal	NOUN	
-1	39	26	of	of	ADP	
-1	39	27	the	the	DET	
-1	39	28	"
+1	37	14	sustainable	sustainable	ADJ	
+1	37	15	development	development	NOUN	
+1	37	16	so	so	SCONJ	
+1	37	17	that	that	SCONJ	
+1	37	18	sustainability	sustainability	NOUN	
+1	37	19	aspects	aspect	NOUN	
+1	37	20	are	be	AUX	
+1	37	21	integrated	integrate	VERB	
+1	37	22	in	in	ADP	
+1	37	23	the	the	DET	
+1	37	24	"
 "	"
 "	SPACE	
-1	39	29	strategy	strategy	NOUN	
-1	39	30	.	.	PUNCT	
-1	40	1	2.3	2.3	NUM	CARDINAL
-1	40	2	Research	Research	PROPN	
-1	40	3	" 
+1	37	25	students	student	NOUN	
+1	37	26	’	’	PART	
+1	37	27	future	future	ADJ	
+1	37	28	profes-	profes-	ADJ	
+1	37	29	" 
+"	" 
+"	SPACE	
+1	37	30	sional	sional	ADJ	
+1	37	31	roles	role	NOUN	
+1	37	32	.	.	PUNCT	
+1	38	1	As	as	ADP	
+1	38	2	a	a	DET	
+1	38	3	part	part	NOUN	
+1	38	4	of	of	ADP	
+1	38	5	a	a	DET	
+1	38	6	functioning	function	VERB	
+1	38	7	student	student	NOUN	
+1	38	8	influence	influence	NOUN	
+1	38	9	,	,	PUNCT	
+1	38	10	students	student	NOUN	
+1	38	11	also	also	ADV	
+1	38	12	"
+"	"
+"	SPACE	
+1	38	13	participate	participate	VERB	
+1	38	14	in	in	ADP	
+1	38	15	the	the	DET	
+1	38	16	work	work	NOUN	
+1	38	17	of	of	ADP	
+1	38	18	in-	in-	ADJ	
+1	38	19	" 
+"	" 
+"	SPACE	
+1	38	20	tegrating	tegrate	VERB	
+1	38	21	sustainable	sustainable	ADJ	
+1	38	22	development	development	NOUN	
+1	38	23	in	in	ADP	
+1	38	24	Lund	Lund	PROPN	ORG
+1	38	25	University	University	PROPN	ORG
+1	38	26	’s	’s	PART	ORG
+1	38	27	activities	activity	NOUN	
+1	38	28	.	.	PUNCT	
+1	39	1	Visions	vision	NOUN	
+1	39	2	for	for	ADP	
+1	39	3	education	education	NOUN	
+1	39	4	and	and	CCONJ	
+1	39	5	student	student	NOUN	
+1	39	6	participation	participation	NOUN	
+1	39	7	:	:	PUNCT	
+1	39	8	" 
 
 "	" 
 
 "	SPACE	
-1	40	4	Lund	Lund	PROPN	
-1	40	5	Universitys	Universitys	PROPN	
-1	40	6	research	research	NOUN	
-1	40	7	develops	develop	VERB	
+1	39	9	2	2	NUM	CARDINAL
+1	39	10	Arenas	Arenas	PROPN	
+1	39	11	and	and	CCONJ	
+1	39	12	initiatives	initiative	NOUN	
+1	39	13	are	be	AUX	
+1	39	14	used	use	VERB	
+1	39	15	as	as	ADP	
+1	39	16	an	an	DET	
+1	39	17	overall	overall	ADJ	
+1	39	18	collective	collective	ADJ	
+1	39	19	term	term	NOUN	
+1	39	20	that	that	PRON	
+1	39	21	may	may	AUX	
+1	39	22	refer	refer	VERB	
+1	39	23	"
+"	"
+"	SPACE	
+1	39	24	to	to	ADP	
+1	39	25	long	long	ADJ	
+1	39	26	-	-	PUNCT	
+1	39	27	term	term	NOUN	
+1	39	28	or	or	CCONJ	
+1	39	29	fixed	fix	VERB	
+1	39	30	-	-	PUNCT	
+1	39	31	term	term	NOUN	
+1	39	32	development	development	NOUN	
+1	39	33	work	work	NOUN	
+1	39	34	,	,	PUNCT	
+1	39	35	" 
+"	" 
+"	SPACE	
+1	39	36	virtual	virtual	ADJ	
+1	39	37	or	or	CCONJ	
+1	39	38	physical	physical	ADJ	
+1	39	39	forums	forum	NOUN	
+1	39	40	,	,	PUNCT	
+1	39	41	external	external	ADJ	
+1	39	42	engagement	engagement	NOUN	
+1	39	43	activities	activity	NOUN	
+1	39	44	,	,	PUNCT	
+1	39	45	etc	etc	X	
+1	39	46	.	.	X	
+1	40	1	Different	different	ADJ	
+1	40	2	"
+"	"
+"	SPACE	
+1	40	3	types	type	NOUN	
+1	40	4	of	of	ADP	
+1	40	5	initiative	initiative	NOUN	
+1	40	6	may	may	AUX	
+1	40	7	be	be	AUX	
 1	40	8	relevant	relevant	ADJ	
-1	40	9	scientific	scientific	ADJ	
-1	40	10	knowledge	knowledge	NOUN	
-1	40	11	that	that	PRON	
-1	40	12	"
-"	"
-"	SPACE	
-1	40	13	increases	increase	VERB	
-1	40	14	understanding	understanding	NOUN	
-1	40	15	of	of	ADP	
-1	40	16	" 
+1	40	9	for	for	ADP	
+1	40	10	different	different	ADJ	
+1	40	11	" 
 "	" 
 "	SPACE	
-1	40	17	problems	problem	NOUN	
-1	40	18	related	relate	VERB	
-1	40	19	to	to	ADP	
-1	40	20	sustainable	sustainable	ADJ	
-1	40	21	development	development	NOUN	
-1	40	22	,	,	PUNCT	
-1	40	23	the	the	DET	
-1	40	24	possible	possible	ADJ	
-1	40	25	solutions	solution	NOUN	
-1	40	26	that	that	PRON	
-1	40	27	exist	exist	VERB	
-1	40	28	"
+1	40	12	parts	part	NOUN	
+1	40	13	of	of	ADP	
+1	40	14	the	the	DET	
+1	40	15	University	University	PROPN	ORG
+1	40	16	.	.	PUNCT	
+1	41	1	Page	page	NOUN	
+1	41	2	3	3	NUM	CARDINAL
+1	41	3	"
+
 "	"
+
 "	SPACE	
-1	40	29	and	and	CCONJ	
-1	40	30	the	the	DET	
-1	40	31	potential	potential	ADJ	
-1	40	32	unde-	unde-	ADJ	
-1	40	33	" 
-"	" 
-"	SPACE	
-1	40	34	sirable	sirable	NOUN	
-1	40	35	effects	effect	NOUN	
-1	40	36	of	of	ADP	
-1	40	37	solutions	solution	NOUN	
-1	40	38	that	that	PRON	
-1	40	39	can	can	AUX	
-1	40	40	arise	arise	VERB	
-1	40	41	.	.	PUNCT	
-1	41	1	As	as	SCONJ	
-1	41	2	sustainability	sustainability	NOUN	
-1	41	3	-	-	PUNCT	
-1	41	4	related	relate	VERB	
-1	41	5	"
-"	"
-"	SPACE	
-1	41	6	problems	problem	NOUN	
-1	41	7	are	be	AUX	
-1	41	8	complex	complex	ADJ	
-1	41	9	and	and	CCONJ	
-1	41	10	the	the	DET	
-1	41	11	so-	so-	NOUN	
-1	41	12	" 
-"	" 
-"	SPACE	
-1	41	13	lution	lution	NOUN	
-1	41	14	to	to	ADP	
-1	41	15	a	a	DET	
-1	41	16	problem	problem	NOUN	
-1	41	17	can	can	AUX	
-1	41	18	sometimes	sometimes	ADV	
-1	41	19	cause	cause	VERB	
-1	41	20	another	another	PRON	
-1	41	21	,	,	PUNCT	
-1	41	22	Lund	Lund	PROPN	ORG
-1	41	23	University	University	PROPN	ORG
-1	41	24	also	also	ADV	
-1	41	25	develops	develop	VERB	
-1	41	26	"
-"	"
-"	SPACE	
-1	41	27	research	research	NOUN	
-1	41	28	that	that	SCONJ	
-1	41	29	in-	in-	ADP	
-1	41	30	" 
-"	" 
-"	SPACE	
-1	41	31	crease	crease	ADJ	
-1	41	32	understanding	understanding	NOUN	
-1	41	33	of	of	ADP	
-1	41	34	such	such	ADJ	
-1	41	35	connections	connection	NOUN	
-1	41	36	.	.	PUNCT	
-1	42	1	An	an	DET	
-1	42	2	important	important	ADJ	
-1	42	3	component	component	NOUN	
-1	42	4	in	in	ADP	
-1	42	5	the	the	DET	
-1	42	6	"
-"	"
-"	SPACE	
-1	42	7	Universitys	Universitys	PROPN	ORG
-1	42	8	research	research	NOUN	
-1	42	9	is	be	AUX	
-1	42	10	to	to	PART	
-1	42	11	" 
-"	" 
-"	SPACE	
-1	42	12	use	use	VERB	
-1	42	13	scientific	scientific	ADJ	
-1	42	14	facts	fact	NOUN	
-1	42	15	and	and	CCONJ	
-1	42	16	a	a	DET	
-1	42	17	broad	broad	ADJ	
-1	42	18	approach	approach	NOUN	
-1	42	19	to	to	AUX	
-1	42	20	critically	critically	ADV	
-1	42	21	review	review	VERB	
-1	42	22	societys	societys	ADJ	
-1	42	23	"
-"	"
-"	SPACE	
-1	42	24	problem	problem	NOUN	
-1	42	25	monitoring	monitoring	NOUN	
-1	42	26	and	and	CCONJ	
-1	42	27	deci-	deci-	PRON	
-1	42	28	" 
-"	" 
-"	SPACE	
-1	42	29	sions	sion	NOUN	
-1	42	30	in	in	ADP	
-1	42	31	the	the	DET	
-1	42	32	area	area	NOUN	
-1	42	33	of	of	ADP	
-1	42	34	sustainability	sustainability	NOUN	
-1	42	35	.	.	PUNCT	
-1	43	1	The	the	DET	
-1	43	2	Universitys	Universitys	PROPN	ORG
-1	43	3	research	research	NOUN	
-1	43	4	is	be	AUX	
-1	43	5	both	both	PRON	
-1	43	6	"
-"	"
-"	SPACE	
-1	43	7	critical	critical	ADJ	
-1	43	8	and	and	CCONJ	
-1	43	9	solution	solution	NOUN	
-1	43	10	-	-	PUNCT	
-1	43	11	oriented	orient	VERB	
-1	43	12	and	and	CCONJ	
-1	43	13	" 
-"	" 
-"	SPACE	
-1	43	14	generates	generate	VERB	
-1	43	15	knowledge	knowledge	NOUN	
-1	43	16	that	that	PRON	
-1	43	17	contributes	contribute	VERB	
-1	43	18	to	to	ADP	
-1	43	19	new	new	ADJ	
-1	43	20	perspectives	perspective	NOUN	
-1	43	21	on	on	ADP	
-1	43	22	sustainable	sustainable	ADJ	
-1	43	23	"
-"	"
-"	SPACE	
-1	43	24	development	development	NOUN	
-1	43	25	.	.	PUNCT	
-1	44	1	Both	both	PRON	
-1	44	2	curios-	curios-	VERB	
-1	44	3	" 
-"	" 
-"	SPACE	
-1	44	4	ity	ity	NOUN	
-1	44	5	-	-	PUNCT	
-1	44	6	driven	drive	VERB	
-1	44	7	and	and	CCONJ	
-1	44	8	needs	need	NOUN	
-1	44	9	-	-	PUNCT	
-1	44	10	based	base	VERB	
-1	44	11	research	research	NOUN	
-1	44	12	form	form	NOUN	
-1	44	13	the	the	DET	
-1	44	14	starting	starting	NOUN	
-1	44	15	point	point	NOUN	
-1	44	16	and	and	CCONJ	
-1	44	17	inspiration	inspiration	NOUN	
-1	44	18	"
-"	"
-"	SPACE	
-1	44	19	for	for	ADP	
-1	44	20	interdisciplinary	interdisciplinary	ADJ	
-1	44	21	and	and	CCONJ	
-1	44	22	" 
-"	" 
-"	SPACE	
-1	44	23	cross	cross	ADJ	
-1	44	24	-	-	ADJ	
-1	44	25	boundary	boundary	ADJ	
-1	44	26	research	research	NOUN	
-1	44	27	that	that	PRON	
-1	44	28	is	be	AUX	
-1	44	29	responsive	responsive	ADJ	
-1	44	30	to	to	ADP	
-1	44	31	societys	societys	ADJ	
-1	44	32	knowledge	knowledge	NOUN	
-1	44	33	needs	need	NOUN	
-1	44	34	"
-"	"
-"	SPACE	
-1	44	35	concerning	concern	VERB	
-1	44	36	sustainable	sustainable	ADJ	
-1	44	37	de-	de-	PROPN	
-1	44	38	" 
-"	" 
-"	SPACE	
-1	44	39	velopment	velopment	NOUN	
-1	44	40	.	.	PUNCT	
-1	44	41	" 
+1	41	4	3	3	NUM	CARDINAL
+1	41	5	(	(	PUNCT	
+1	41	6	4	4	NUM	CARDINAL
+1	41	7	)	)	PUNCT	
+1	41	8	" 
 
 "	" 
 
 "	SPACE	
-1	44	42	Visions	vision	NOUN	
-1	44	43	for	for	ADP	
-1	44	44	research	research	NOUN	
-1	44	45	:	:	PUNCT	
-1	45	1	Research	research	NOUN	
-1	45	2	of	of	ADP	
-1	45	3	the	the	DET	
-1	45	4	highest	high	ADJ	
-1	45	5	quality	quality	NOUN	
-1	45	6	creates	create	VERB	
-1	45	7	the	the	DET	
-1	45	8	basic	basic	ADJ	
-1	45	9	knowledge	knowledge	NOUN	
-1	45	10	about	about	ADP	
-1	45	11	,	,	PUNCT	
-1	45	12	and	and	CCONJ	
-1	45	13	"
+1	41	9			NOUN	
+1	42	1	All	all	DET	
+1	42	2	students	student	NOUN	
+1	42	3	acquire	acquire	VERB	
+1	42	4	knowledge	knowledge	NOUN	
+1	42	5	and	and	CCONJ	
+1	42	6	understanding	understanding	NOUN	
+1	42	7	of	of	ADP	
+1	42	8	sustainable	sustainable	ADJ	
+1	42	9	development	development	NOUN	
+1	42	10	"
 "	"
 "	SPACE	
-1	45	14	innovative	innovative	ADJ	
-1	45	15	solu-	solu-	ADJ	
-1	45	16	" 
+1	42	11	and	and	CCONJ	
+1	42	12	how	how	SCONJ	
+1	42	13	their	their	PRON	
+1	42	14	" 
+"	" 
+"	SPACE	
+1	42	15	programmes	programme	NOUN	
+1	42	16	relate	relate	VERB	
+1	42	17	to	to	ADP	
+1	42	18	this	this	PRON	
+1	42	19	,	,	PUNCT	
+1	42	20	and	and	CCONJ	
+1	42	21	thereby	thereby	ADV	
+1	42	22	contribute	contribute	VERB	
+1	42	23	expertise	expertise	NOUN	
+1	42	24	in	in	ADP	
+1	42	25	their	their	PRON	
+1	42	26	future	future	ADJ	
+1	42	27	"
+"	"
+"	SPACE	
+1	42	28	roles	role	NOUN	
+1	42	29	in	in	ADP	
+1	42	30	society	society	NOUN	
+1	42	31	.	.	PUNCT	
+1	43	1			NOUN	
+1	44	1	There	there	PRON	
+1	44	2	is	be	VERB	
+1	44	3	continuing	continue	VERB	
+1	44	4	professional	professional	ADJ	
+1	44	5	development	development	NOUN	
+1	44	6	within	within	ADP	
+1	44	7	sustainable	sustainable	ADJ	
+1	44	8	development	development	NOUN	
+1	44	9	"
+"	"
+"	SPACE	
+1	44	10	for	for	ADP	
+1	44	11	all	all	DET	
+1	44	12	" 
 
 "	" 
 
 "	SPACE	
-1	45	17	tions	tion	NOUN	
-1	45	18	to	to	ADP	
-1	45	19	,	,	PUNCT	
-1	45	20	sustainability	sustainability	NOUN	
-1	45	21	-	-	PUNCT	
-1	45	22	related	relate	VERB	
-1	45	23	problems	problem	NOUN	
-1	45	24	.	.	PUNCT	
+1	44	13	employees	employee	NOUN	
+1	44	14	at	at	ADP	
+1	44	15	Lund	Lund	PROPN	ORG
+1	44	16	University	University	PROPN	ORG
+1	44	17	.	.	PUNCT	
+1	45	1			NOUN	
 1	46	1	The	the	DET	
-1	46	2	Universitys	Universitys	PROPN	ORG
-1	46	3	researchers	researcher	NOUN	
-1	46	4	are	be	AUX	
-1	46	5	well	well	ADV	
-1	46	6	aware	aware	ADJ	
-1	46	7	of	of	ADP	
-1	46	8	the	the	DET	
-1	46	9	relevance	relevance	NOUN	
-1	46	10	of	of	ADP	
-1	46	11	their	their	PRON	
-1	46	12	own	own	ADJ	
-1	46	13	"
+1	46	2	University	University	PROPN	ORG
+1	46	3	supports	support	VERB	
+1	46	4	student	student	NOUN	
+1	46	5	initiatives	initiative	NOUN	
+1	46	6	in	in	ADP	
+1	46	7	sustainable	sustainable	ADJ	
+1	46	8	development	development	NOUN	
+1	46	9	and	and	CCONJ	
+1	46	10	"
 "	"
 "	SPACE	
-1	46	14	research	research	NOUN	
-1	46	15	to	to	ADP	
-1	46	16	sustain-	sustain-	ADJ	
-1	46	17	" 
+1	46	11	there	there	PRON	
+1	46	12	are	be	VERB	
+1	46	13	op-	op-	X	
+1	46	14	" 
 "	" 
 "	SPACE	
-1	46	18	able	able	ADJ	
-1	46	19	development	development	NOUN	
-1	46	20	and	and	CCONJ	
-1	46	21	how	how	SCONJ	
-1	46	22	their	their	PRON	
-1	46	23	research	research	NOUN	
-1	46	24	relates	relate	VERB	
-1	46	25	to	to	ADP	
-1	46	26	other	other	ADJ	
-1	46	27	fields	field	NOUN	
-1	46	28	of	of	ADP	
-1	46	29	research	research	NOUN	
-1	46	30	"
+1	46	15	portunities	portunitie	NOUN	
+1	46	16	for	for	SCONJ	
+1	46	17	students	student	NOUN	
+1	46	18	to	to	PART	
+1	46	19	participate	participate	VERB	
+1	46	20	in	in	ADP	
+1	46	21	work	work	NOUN	
+1	46	22	to	to	PART	
+1	46	23	achieve	achieve	VERB	
+1	46	24	the	the	DET	
+1	46	25	goals	goal	NOUN	
+1	46	26	of	of	ADP	
+1	46	27	the	the	DET	
+1	46	28	"
 "	"
 "	SPACE	
-1	46	31	concerning	concern	VERB	
-1	46	32	sus-	sus-	ADJ	
-1	46	33	" 
-"	" 
-"	SPACE	
-1	46	34	tainable	tainable	NOUN	
-1	46	35	development	development	NOUN	
-1	46	36	.	.	PUNCT	
-1	47	1	Forms	form	NOUN	
-1	47	2	of	of	ADP	
-1	47	3	interdisciplinary	interdisciplinary	ADJ	
-1	47	4	and	and	CCONJ	
-1	47	5	cross	cross	ADJ	
-1	47	6	-	-	ADJ	
-1	47	7	boundary	boundary	ADJ	
-1	47	8	research	research	NOUN	
-1	47	9	on	on	ADP	
-1	47	10	sustainable	sustainable	ADJ	
-1	47	11	"
-"	"
-"	SPACE	
-1	47	12	development	development	NOUN	
-1	47	13	are	be	AUX	
-1	47	14	well	well	ADV	
-1	47	15	" 
-"	" 
-"	SPACE	
-1	47	16	developed	develop	VERB	
-1	47	17	,	,	PUNCT	
-1	47	18	which	which	PRON	
-1	47	19	among	among	ADP	
-1	47	20	other	other	ADJ	
-1	47	21	things	thing	NOUN	
-1	47	22	entails	entail	VERB	
-1	47	23	dedicated	dedicated	ADJ	
-1	47	24	initiatives2	initiatives2	NOUN	ORG
-1	47	25	that	that	PRON	
-1	47	26	bring	bring	VERB	
-1	47	27	"
-"	"
-"	SPACE	
-1	47	28	together	together	ADV	
-1	47	29	re-	re-	ADP	
-1	47	30	" 
-"	" 
-"	SPACE	
-1	47	31	search	search	NOUN	
-1	47	32	at	at	ADP	
-1	47	33	various	various	ADJ	
-1	47	34	faculties	faculty	NOUN	
-1	47	35	.	.	PUNCT	
-1	48	1	Strategic	strategic	ADJ	
-1	48	2	external	external	ADJ	
-1	48	3	engagement	engagement	NOUN	
-1	48	4	with	with	ADP	
-1	48	5	a	a	DET	
-1	48	6	broad	broad	ADJ	
-1	48	7	spectrum	spectrum	NOUN	
-1	48	8	of	of	ADP	
-1	48	9	collaborating	collaborate	VERB	
-1	48	10	parties	party	NOUN	
-1	48	11	"
-"	"
-"	SPACE	
-1	48	12	helps	help	VERB	
-1	48	13	to	to	PART	
-1	48	14	" 
-"	" 
-"	SPACE	
-1	48	15	identify	identify	VERB	
-1	48	16	research	research	NOUN	
-1	48	17	needs	need	NOUN	
-1	48	18	for	for	ADP	
-1	48	19	sustainable	sustainable	ADJ	
-1	48	20	development	development	NOUN	
-1	48	21	and	and	CCONJ	
-1	48	22	to	to	PART	
-1	48	23	produce	produce	VERB	
-1	48	24	knowledge	knowledge	NOUN	
-1	48	25	"
-"	"
-"	SPACE	
-1	48	26	that	that	PRON	
-1	48	27	" 
-"	" 
-"	SPACE	
-1	48	28	meets	meet	VERB	
-1	48	29	these	these	DET	
-1	48	30	needs	need	NOUN	
-1	48	31	.	.	PUNCT	
-1	49	1	2.4	2.4	NUM	CARDINAL
-1	49	2	" 
+1	46	29	strategy	strategy	NOUN	
+1	46	30	.	.	PUNCT	
+1	47	1	2.3	2.3	NUM	ORG
+1	47	2	Research	Research	PROPN	ORG
+1	47	3	" 
 
 "	" 
 
+"	SPACE	ORG
+1	47	4	Lund	Lund	PROPN	ORG
+1	47	5	University	University	PROPN	ORG
+1	47	6	’s	’s	PART	ORG
+1	47	7	research	research	NOUN	
+1	47	8	develops	develop	VERB	
+1	47	9	relevant	relevant	ADJ	
+1	47	10	scientific	scientific	ADJ	
+1	47	11	knowledge	knowledge	NOUN	
+1	47	12	that	that	PRON	
+1	47	13	"
+"	"
 "	SPACE	
-1	49	3	External	external	ADJ	
-1	49	4	engagement	engagement	NOUN	
-1	49	5	" 
-
+1	47	14	increases	increase	VERB	
+1	47	15	understanding	understanding	NOUN	
+1	47	16	of	of	ADP	
+1	47	17	" 
 "	" 
-
 "	SPACE	
-1	49	6	Lund	Lund	PROPN	ORG
+1	47	18	problems	problem	NOUN	
+1	47	19	related	relate	VERB	
+1	47	20	to	to	ADP	
+1	47	21	sustainable	sustainable	ADJ	
+1	47	22	development	development	NOUN	
+1	47	23	,	,	PUNCT	
+1	47	24	the	the	DET	
+1	47	25	possible	possible	ADJ	
+1	47	26	solutions	solution	NOUN	
+1	47	27	that	that	PRON	
+1	47	28	exist	exist	VERB	
+1	47	29	"
+"	"
+"	SPACE	
+1	47	30	and	and	CCONJ	
+1	47	31	the	the	DET	
+1	47	32	potential	potential	ADJ	
+1	47	33	unde-	unde-	ADJ	
+1	47	34	" 
+"	" 
+"	SPACE	
+1	47	35	sirable	sirable	NOUN	
+1	47	36	effects	effect	NOUN	
+1	47	37	of	of	ADP	
+1	47	38	solutions	solution	NOUN	
+1	47	39	that	that	PRON	
+1	47	40	can	can	AUX	
+1	47	41	arise	arise	VERB	
+1	47	42	.	.	PUNCT	
+1	48	1	As	as	SCONJ	
+1	48	2	sustainability	sustainability	NOUN	
+1	48	3	-	-	PUNCT	
+1	48	4	related	relate	VERB	
+1	48	5	"
+"	"
+"	SPACE	
+1	48	6	problems	problem	NOUN	
+1	48	7	are	be	AUX	
+1	48	8	complex	complex	ADJ	
+1	48	9	and	and	CCONJ	
+1	48	10	the	the	DET	
+1	48	11	so-	so-	NOUN	
+1	48	12	" 
+"	" 
+"	SPACE	
+1	48	13	lution	lution	NOUN	
+1	48	14	to	to	ADP	
+1	48	15	a	a	DET	
+1	48	16	problem	problem	NOUN	
+1	48	17	can	can	AUX	
+1	48	18	sometimes	sometimes	ADV	
+1	48	19	cause	cause	VERB	
+1	48	20	another	another	PRON	
+1	48	21	,	,	PUNCT	
+1	48	22	Lund	Lund	PROPN	ORG
+1	48	23	University	University	PROPN	ORG
+1	48	24	also	also	ADV	
+1	48	25	develops	develop	VERB	
+1	48	26	"
+"	"
+"	SPACE	
+1	48	27	research	research	NOUN	
+1	48	28	that	that	SCONJ	
+1	48	29	in-	in-	ADP	
+1	48	30	" 
+"	" 
+"	SPACE	
+1	48	31	crease	crease	ADJ	
+1	48	32	understanding	understanding	NOUN	
+1	48	33	of	of	ADP	
+1	48	34	such	such	ADJ	
+1	48	35	connections	connection	NOUN	
+1	48	36	.	.	PUNCT	
+1	49	1	An	an	DET	
+1	49	2	important	important	ADJ	
+1	49	3	component	component	NOUN	
+1	49	4	in	in	ADP	
+1	49	5	the	the	DET	
+1	49	6	"
+"	"
+"	SPACE	
 1	49	7	University	University	PROPN	ORG
-1	49	8	is	be	AUX	
-1	49	9	involved	involve	VERB	
-1	49	10	in	in	ADP	
-1	49	11	strong	strong	ADJ	
-1	49	12	external	external	ADJ	
-1	49	13	engagement	engagement	NOUN	
-1	49	14	regarding	regard	VERB	
-1	49	15	"
-"	"
-"	SPACE	
-1	49	16	sustainable	sustainable	ADJ	
-1	49	17	development	development	NOUN	
-1	49	18	issues	issue	NOUN	
-1	49	19	" 
+1	49	8	’s	’s	PART	
+1	49	9	research	research	NOUN	
+1	49	10	is	be	AUX	
+1	49	11	to	to	PART	
+1	49	12	" 
 "	" 
 "	SPACE	
-1	49	20	with	with	ADP	
-1	49	21	an	an	DET	
-1	49	22	aim	aim	NOUN	
-1	49	23	to	to	PART	
-1	49	24	identify	identify	VERB	
-1	49	25	areas	area	NOUN	
-1	49	26	in	in	ADP	
-1	49	27	need	need	NOUN	
-1	49	28	of	of	ADP	
-1	49	29	research	research	NOUN	
-1	49	30	and	and	CCONJ	
-1	49	31	education	education	NOUN	
-1	49	32	.	.	PUNCT	
-1	50	1	This	this	DET	
-1	50	2	external	external	ADJ	
-1	50	3	"
+1	49	13	use	use	VERB	
+1	49	14	scientific	scientific	ADJ	
+1	49	15	facts	fact	NOUN	
+1	49	16	and	and	CCONJ	
+1	49	17	a	a	DET	
+1	49	18	broad	broad	ADJ	
+1	49	19	approach	approach	NOUN	
+1	49	20	to	to	AUX	
+1	49	21	critically	critically	ADV	
+1	49	22	review	review	VERB	
+1	49	23	society	society	NOUN	
+1	49	24	’s	’s	PART	
+1	49	25	"
 "	"
 "	SPACE	
-1	50	4	engagement	engagement	NOUN	
-1	50	5	contributes	contribute	VERB	
-1	50	6	" 
+1	49	26	problem	problem	NOUN	
+1	49	27	monitoring	monitoring	NOUN	
+1	49	28	and	and	CCONJ	
+1	49	29	deci-	deci-	PRON	
+1	49	30	" 
 "	" 
 "	SPACE	
-1	50	7	to	to	PART	
-1	50	8	research	research	VERB	
-1	50	9	being	be	AUX	
-1	50	10	used	use	VERB	
-1	50	11	to	to	PART	
-1	50	12	support	support	VERB	
-1	50	13	decisions	decision	NOUN	
-1	50	14	and	and	CCONJ	
-1	50	15	for	for	ADP	
-1	50	16	critical	critical	ADJ	
-1	50	17	analysis	analysis	NOUN	
-1	50	18	of	of	ADP	
-1	50	19	"
+1	49	31	sions	sion	NOUN	
+1	49	32	in	in	ADP	
+1	49	33	the	the	DET	
+1	49	34	area	area	NOUN	
+1	49	35	of	of	ADP	
+1	49	36	sustainability	sustainability	NOUN	
+1	49	37	.	.	PUNCT	
+1	50	1	The	the	DET	
+1	50	2	University	University	PROPN	ORG
+1	50	3	’s	’s	PART	
+1	50	4	research	research	NOUN	
+1	50	5	is	be	AUX	
+1	50	6	both	both	PRON	
+1	50	7	"
 "	"
 "	SPACE	
-1	50	20	issues	issue	NOUN	
-1	50	21	relating	relate	VERB	
-1	50	22	to	to	ADP	
+1	50	8	critical	critical	ADJ	
+1	50	9	and	and	CCONJ	
+1	50	10	solution	solution	NOUN	
+1	50	11	-	-	PUNCT	
+1	50	12	oriented	orient	VERB	
+1	50	13	and	and	CCONJ	
+1	50	14	" 
+"	" 
+"	SPACE	
+1	50	15	generates	generate	VERB	
+1	50	16	knowledge	knowledge	NOUN	
+1	50	17	that	that	PRON	
+1	50	18	contributes	contribute	VERB	
+1	50	19	to	to	ADP	
+1	50	20	new	new	ADJ	
+1	50	21	perspectives	perspective	NOUN	
+1	50	22	on	on	ADP	
 1	50	23	sustainable	sustainable	ADJ	
-1	50	24	" 
-"	" 
+1	50	24	"
+"	"
 "	SPACE	
 1	50	25	development	development	NOUN	
 1	50	26	.	.	PUNCT	
-1	51	1	This	this	PRON	
-1	51	2	is	be	AUX	
-1	51	3	achieved	achieve	VERB	
-1	51	4	by	by	ADP	
-1	51	5	employees	employee	NOUN	
-1	51	6	taking	take	VERB	
-1	51	7	part	part	NOUN	
-1	51	8	in	in	ADP	
-1	51	9	relevant	relevant	ADJ	
-1	51	10	local	local	ADJ	
-1	51	11	,	,	PUNCT	
-1	51	12	"
-"	"
+1	51	1	Both	both	PRON	
+1	51	2	curios-	curios-	VERB	
+1	51	3	" 
+"	" 
 "	SPACE	
-1	51	13	regional	regional	ADJ	
-1	51	14	,	,	PUNCT	
-1	51	15	national	national	ADJ	
+1	51	4	ity	ity	NOUN	
+1	51	5	-	-	PUNCT	
+1	51	6	driven	drive	VERB	
+1	51	7	and	and	CCONJ	
+1	51	8	needs	need	NOUN	
+1	51	9	-	-	PUNCT	
+1	51	10	based	base	VERB	
+1	51	11	research	research	NOUN	
+1	51	12	form	form	NOUN	
+1	51	13	the	the	DET	
+1	51	14	starting	starting	NOUN	
+1	51	15	point	point	NOUN	
 1	51	16	and	and	CCONJ	
-1	51	17	" 
-"	" 
-"	SPACE	
-1	51	18	global	global	ADJ	
-1	51	19	arenas	arena	NOUN	
-1	51	20	and	and	CCONJ	
-1	51	21	there	there	ADV	
-1	51	22	engaging	engage	VERB	
-1	51	23	in	in	ADP	
-1	51	24	discussions	discussion	NOUN	
-1	51	25	with	with	ADP	
-1	51	26	a	a	DET	
-1	51	27	broad	broad	ADJ	
-1	51	28	spectrum	spectrum	NOUN	
-1	51	29	of	of	ADP	
-1	51	30	"
+1	51	17	inspiration	inspiration	NOUN	
+1	51	18	"
 "	"
 "	SPACE	
-1	51	31	organisations	organisation	NOUN	
-1	51	32	in	in	ADP	
-1	51	33	society3	society3	PROPN	PERSON
-1	51	34	,	,	PUNCT	
-1	51	35	" 
+1	51	19	for	for	ADP	
+1	51	20	interdisciplinary	interdisciplinary	ADJ	
+1	51	21	and	and	CCONJ	
+1	51	22	" 
 "	" 
 "	SPACE	
-1	51	36	making	make	VERB	
-1	51	37	available	available	ADJ	
-1	51	38	new	new	ADJ	
-1	51	39	knowledge	knowledge	NOUN	
-1	51	40	that	that	PRON	
-1	51	41	can	can	AUX	
-1	51	42	support	support	VERB	
-1	51	43	decisions	decision	NOUN	
-1	51	44	,	,	PUNCT	
-1	51	45	collaborating	collaborate	VERB	
-1	51	46	on	on	ADP	
-1	51	47	"
+1	51	23	cross	cross	ADJ	
+1	51	24	-	-	ADJ	
+1	51	25	boundary	boundary	ADJ	
+1	51	26	research	research	NOUN	
+1	51	27	that	that	PRON	
+1	51	28	is	be	AUX	
+1	51	29	responsive	responsive	ADJ	
+1	51	30	to	to	ADP	
+1	51	31	society	society	NOUN	
+1	51	32	’s	’s	PART	
+1	51	33	knowledge	knowledge	NOUN	
+1	51	34	needs	need	NOUN	
+1	51	35	"
 "	"
 "	SPACE	
-1	51	48	the	the	DET	
-1	51	49	development	development	NOUN	
+1	51	36	concerning	concern	VERB	
+1	51	37	sustainable	sustainable	ADJ	
+1	51	38	de-	de-	PROPN	
+1	51	39	" 
+"	" 
+"	SPACE	
+1	51	40	velopment	velopment	NOUN	
+1	51	41	.	.	PUNCT	
+1	51	42	" 
+
+"	" 
+
+"	SPACE	
+1	51	43	Visions	vision	NOUN	
+1	51	44	for	for	ADP	
+1	51	45	research	research	NOUN	
+1	51	46	:	:	PUNCT	
+1	51	47	" 
+
+"	" 
+
+"	SPACE	
+1	51	48			PUNCT	
+1	51	49	Research	research	NOUN	
 1	51	50	of	of	ADP	
-1	51	51	" 
-"	" 
-"	SPACE	
-1	51	52	solutions	solution	NOUN	
-1	51	53	that	that	PRON	
-1	51	54	create	create	VERB	
-1	51	55	sustainable	sustainable	ADJ	
-1	51	56	development	development	NOUN	
-1	51	57	,	,	PUNCT	
-1	51	58	and	and	CCONJ	
-1	51	59	identifying	identify	VERB	
-1	51	60	new	new	ADJ	
-1	51	61	research	research	NOUN	
-1	51	62	"
+1	51	51	the	the	DET	
+1	51	52	highest	high	ADJ	
+1	51	53	quality	quality	NOUN	
+1	51	54	creates	create	VERB	
+1	51	55	the	the	DET	
+1	51	56	basic	basic	ADJ	
+1	51	57	knowledge	knowledge	NOUN	
+1	51	58	about	about	ADP	
+1	51	59	,	,	PUNCT	
+1	51	60	and	and	CCONJ	
+1	51	61	"
 "	"
 "	SPACE	
-1	51	63	and	and	CCONJ	
-1	51	64	education	education	NOUN	
-1	51	65	needs	need	NOUN	
-1	51	66	.	.	PUNCT	
-1	52	1	Visions	vision	NOUN	
-1	52	2	for	for	ADP	
-1	52	3	external	external	ADJ	
-1	52	4	engagement	engagement	NOUN	
-1	52	5	:	:	PUNCT	
-1	52	6	" 
-
- "	" 
-
- "	SPACE	
-1	52	7	Lund	Lund	PROPN	ORG
-1	52	8	University	University	PROPN	ORG
-1	52	9	generates	generate	VERB	
-1	52	10	knowledge	knowledge	NOUN	
-1	52	11	that	that	PRON	
-1	52	12	is	be	AUX	
-1	52	13	relevant	relevant	ADJ	
-1	52	14	for	for	ADP	
-1	52	15	sustainable	sustainable	ADJ	
-1	52	16	"
-"	"
-"	SPACE	
-1	52	17	development	development	NOUN	
-1	52	18	in	in	ADP	
-1	52	19	collaboration	collaboration	NOUN	
-1	52	20	" 
+1	51	62	innovative	innovative	ADJ	
+1	51	63	solu-	solu-	ADJ	
+1	51	64	" 
 
 "	" 
 
 "	SPACE	
-1	52	21	3	3	NUM	CARDINAL
-1	52	22	E.g.	E.g.	PROPN	
-1	52	23	other	other	ADJ	
-1	52	24	higher	high	ADJ	
-1	52	25	education	education	NOUN	
-1	52	26	institutions	institution	NOUN	
-1	52	27	,	,	PUNCT	
-1	52	28	public	public	ADJ	
-1	52	29	authorities	authority	NOUN	
-1	52	30	,	,	PUNCT	
-1	52	31	the	the	DET	
-1	52	32	business	business	NOUN	
-1	52	33	"
+1	51	65	tions	tion	NOUN	
+1	51	66	to	to	ADP	
+1	51	67	,	,	PUNCT	
+1	51	68	sustainability	sustainability	NOUN	
+1	51	69	-	-	PUNCT	
+1	51	70	related	relate	VERB	
+1	51	71	problems	problem	NOUN	
+1	51	72	.	.	PUNCT	
+1	52	1			NOUN	
+1	53	1	The	the	DET	
+1	53	2	University	University	PROPN	ORG
+1	53	3	’s	’s	PART	
+1	53	4	researchers	researcher	NOUN	
+1	53	5	are	be	AUX	
+1	53	6	well	well	ADV	
+1	53	7	aware	aware	ADJ	
+1	53	8	of	of	ADP	
+1	53	9	the	the	DET	
+1	53	10	relevance	relevance	NOUN	
+1	53	11	of	of	ADP	
+1	53	12	their	their	PRON	
+1	53	13	own	own	ADJ	
+1	53	14	"
 "	"
 "	SPACE	
-1	52	34	sector	sector	NOUN	
-1	52	35	,	,	PUNCT	
-1	52	36	civil	civil	ADJ	
-1	52	37	society	society	NOUN	
-1	52	38	and	and	CCONJ	
-1	52	39	citizens	citizen	NOUN	
-1	52	40	.	.	PUNCT	
-1	53	1	Page	page	NOUN	ORG
-1	53	2	4	4	NUM	ORG
-1	53	3	"
+1	53	15	research	research	NOUN	
+1	53	16	to	to	ADP	
+1	53	17	sustain-	sustain-	ADJ	
+1	53	18	" 
+"	" 
+"	SPACE	
+1	53	19	able	able	ADJ	
+1	53	20	development	development	NOUN	
+1	53	21	and	and	CCONJ	
+1	53	22	how	how	SCONJ	
+1	53	23	their	their	PRON	
+1	53	24	research	research	NOUN	
+1	53	25	relates	relate	VERB	
+1	53	26	to	to	ADP	
+1	53	27	other	other	ADJ	
+1	53	28	fields	field	NOUN	
+1	53	29	of	of	ADP	
+1	53	30	research	research	NOUN	
+1	53	31	"
+"	"
+"	SPACE	
+1	53	32	concerning	concern	VERB	
+1	53	33	sus-	sus-	ADJ	
+1	53	34	" 
+"	" 
+"	SPACE	
+1	53	35	tainable	tainable	NOUN	
+1	53	36	development	development	NOUN	
+1	53	37	.	.	PUNCT	
+1	54	1			PUNCT	
+1	54	2	Forms	form	NOUN	
+1	54	3	of	of	ADP	
+1	54	4	interdisciplinary	interdisciplinary	ADJ	
+1	54	5	and	and	CCONJ	
+1	54	6	cross	cross	ADJ	
+1	54	7	-	-	ADJ	
+1	54	8	boundary	boundary	ADJ	
+1	54	9	research	research	NOUN	
+1	54	10	on	on	ADP	
+1	54	11	sustainable	sustainable	ADJ	
+1	54	12	"
+"	"
+"	SPACE	
+1	54	13	development	development	NOUN	
+1	54	14	are	be	AUX	
+1	54	15	well	well	ADV	
+1	54	16	" 
+"	" 
+"	SPACE	
+1	54	17	developed	develop	VERB	
+1	54	18	,	,	PUNCT	
+1	54	19	which	which	PRON	
+1	54	20	among	among	ADP	
+1	54	21	other	other	ADJ	
+1	54	22	things	thing	NOUN	
+1	54	23	entails	entail	VERB	
+1	54	24	dedicated	dedicated	ADJ	
+1	54	25	initiatives2	initiatives2	NOUN	ORG
+1	54	26	that	that	PRON	
+1	54	27	bring	bring	VERB	
+1	54	28	"
+"	"
+"	SPACE	
+1	54	29	together	together	ADV	
+1	54	30	re-	re-	ADP	
+1	54	31	" 
+"	" 
+"	SPACE	
+1	54	32	search	search	NOUN	
+1	54	33	at	at	ADP	
+1	54	34	various	various	ADJ	
+1	54	35	faculties	faculty	NOUN	
+1	54	36	.	.	PUNCT	
+1	55	1			VERB	
+1	55	2	Strategic	strategic	ADJ	ORG
+1	55	3	external	external	ADJ	
+1	55	4	engagement	engagement	NOUN	
+1	55	5	with	with	ADP	
+1	55	6	a	a	DET	
+1	55	7	broad	broad	ADJ	
+1	55	8	spectrum	spectrum	NOUN	
+1	55	9	of	of	ADP	
+1	55	10	collaborating	collaborate	VERB	
+1	55	11	parties	party	NOUN	
+1	55	12	"
+"	"
+"	SPACE	
+1	55	13	helps	help	VERB	
+1	55	14	to	to	PART	
+1	55	15	" 
+"	" 
+"	SPACE	
+1	55	16	identify	identify	VERB	
+1	55	17	research	research	NOUN	
+1	55	18	needs	need	NOUN	
+1	55	19	for	for	ADP	
+1	55	20	sustainable	sustainable	ADJ	
+1	55	21	development	development	NOUN	
+1	55	22	and	and	CCONJ	
+1	55	23	to	to	PART	
+1	55	24	produce	produce	VERB	
+1	55	25	knowledge	knowledge	NOUN	
+1	55	26	"
+"	"
+"	SPACE	
+1	55	27	that	that	PRON	
+1	55	28	" 
+"	" 
+"	SPACE	
+1	55	29	meets	meet	VERB	
+1	55	30	these	these	DET	
+1	55	31	needs	need	NOUN	
+1	55	32	.	.	PUNCT	
+1	56	1	2.4	2.4	NUM	CARDINAL
+1	56	2	" 
+
+"	" 
+
+"	SPACE	
+1	56	3	External	external	ADJ	
+1	56	4	engagement	engagement	NOUN	
+1	56	5	" 
+
+"	" 
+
+"	SPACE	
+1	56	6	Lund	Lund	PROPN	ORG
+1	56	7	University	University	PROPN	ORG
+1	56	8	is	be	AUX	
+1	56	9	involved	involve	VERB	
+1	56	10	in	in	ADP	
+1	56	11	strong	strong	ADJ	
+1	56	12	external	external	ADJ	
+1	56	13	engagement	engagement	NOUN	
+1	56	14	regarding	regard	VERB	
+1	56	15	"
+"	"
+"	SPACE	
+1	56	16	sustainable	sustainable	ADJ	
+1	56	17	development	development	NOUN	
+1	56	18	issues	issue	NOUN	
+1	56	19	" 
+"	" 
+"	SPACE	
+1	56	20	with	with	ADP	
+1	56	21	an	an	DET	
+1	56	22	aim	aim	NOUN	
+1	56	23	to	to	PART	
+1	56	24	identify	identify	VERB	
+1	56	25	areas	area	NOUN	
+1	56	26	in	in	ADP	
+1	56	27	need	need	NOUN	
+1	56	28	of	of	ADP	
+1	56	29	research	research	NOUN	
+1	56	30	and	and	CCONJ	
+1	56	31	education	education	NOUN	
+1	56	32	.	.	PUNCT	
+1	57	1	This	this	DET	
+1	57	2	external	external	ADJ	
+1	57	3	"
+"	"
+"	SPACE	
+1	57	4	engagement	engagement	NOUN	
+1	57	5	contributes	contribute	VERB	
+1	57	6	" 
+"	" 
+"	SPACE	
+1	57	7	to	to	PART	
+1	57	8	research	research	VERB	
+1	57	9	being	be	AUX	
+1	57	10	used	use	VERB	
+1	57	11	to	to	PART	
+1	57	12	support	support	VERB	
+1	57	13	decisions	decision	NOUN	
+1	57	14	and	and	CCONJ	
+1	57	15	for	for	ADP	
+1	57	16	critical	critical	ADJ	
+1	57	17	analysis	analysis	NOUN	
+1	57	18	of	of	ADP	
+1	57	19	"
+"	"
+"	SPACE	
+1	57	20	issues	issue	NOUN	
+1	57	21	relating	relate	VERB	
+1	57	22	to	to	ADP	
+1	57	23	sustainable	sustainable	ADJ	
+1	57	24	" 
+"	" 
+"	SPACE	
+1	57	25	development	development	NOUN	
+1	57	26	.	.	PUNCT	
+1	58	1	This	this	PRON	
+1	58	2	is	be	AUX	
+1	58	3	achieved	achieve	VERB	
+1	58	4	by	by	ADP	
+1	58	5	employees	employee	NOUN	
+1	58	6	taking	take	VERB	
+1	58	7	part	part	NOUN	
+1	58	8	in	in	ADP	
+1	58	9	relevant	relevant	ADJ	
+1	58	10	local	local	ADJ	
+1	58	11	,	,	PUNCT	
+1	58	12	"
+"	"
+"	SPACE	
+1	58	13	regional	regional	ADJ	
+1	58	14	,	,	PUNCT	
+1	58	15	national	national	ADJ	
+1	58	16	and	and	CCONJ	
+1	58	17	" 
+"	" 
+"	SPACE	
+1	58	18	global	global	ADJ	
+1	58	19	arenas	arena	NOUN	
+1	58	20	and	and	CCONJ	
+1	58	21	there	there	ADV	
+1	58	22	engaging	engage	VERB	
+1	58	23	in	in	ADP	
+1	58	24	discussions	discussion	NOUN	
+1	58	25	with	with	ADP	
+1	58	26	a	a	DET	
+1	58	27	broad	broad	ADJ	
+1	58	28	spectrum	spectrum	NOUN	
+1	58	29	of	of	ADP	
+1	58	30	"
+"	"
+"	SPACE	
+1	58	31	organisations	organisation	NOUN	
+1	58	32	in	in	ADP	
+1	58	33	society3	society3	PROPN	PERSON
+1	58	34	,	,	PUNCT	
+1	58	35	" 
+"	" 
+"	SPACE	
+1	58	36	making	make	VERB	
+1	58	37	available	available	ADJ	
+1	58	38	new	new	ADJ	
+1	58	39	knowledge	knowledge	NOUN	
+1	58	40	that	that	PRON	
+1	58	41	can	can	AUX	
+1	58	42	support	support	VERB	
+1	58	43	decisions	decision	NOUN	
+1	58	44	,	,	PUNCT	
+1	58	45	collaborating	collaborate	VERB	
+1	58	46	on	on	ADP	
+1	58	47	"
+"	"
+"	SPACE	
+1	58	48	the	the	DET	
+1	58	49	development	development	NOUN	
+1	58	50	of	of	ADP	
+1	58	51	" 
+"	" 
+"	SPACE	
+1	58	52	solutions	solution	NOUN	
+1	58	53	that	that	PRON	
+1	58	54	create	create	VERB	
+1	58	55	sustainable	sustainable	ADJ	
+1	58	56	development	development	NOUN	
+1	58	57	,	,	PUNCT	
+1	58	58	and	and	CCONJ	
+1	58	59	identifying	identify	VERB	
+1	58	60	new	new	ADJ	
+1	58	61	research	research	NOUN	
+1	58	62	"
+"	"
+"	SPACE	
+1	58	63	and	and	CCONJ	
+1	58	64	education	education	NOUN	
+1	58	65	needs	need	NOUN	
+1	58	66	.	.	PUNCT	
+1	59	1	Visions	vision	NOUN	
+1	59	2	for	for	ADP	
+1	59	3	external	external	ADJ	
+1	59	4	engagement	engagement	NOUN	
+1	59	5	:	:	PUNCT	
+1	59	6	" 
+
+"	" 
+
+"	SPACE	
+1	59	7			NOUN	
+1	60	1	Lund	Lund	PROPN	ORG
+1	60	2	University	University	PROPN	ORG
+1	60	3	generates	generate	VERB	
+1	60	4	knowledge	knowledge	NOUN	
+1	60	5	that	that	PRON	
+1	60	6	is	be	AUX	
+1	60	7	relevant	relevant	ADJ	
+1	60	8	for	for	ADP	
+1	60	9	sustainable	sustainable	ADJ	
+1	60	10	"
+"	"
+"	SPACE	
+1	60	11	development	development	NOUN	
+1	60	12	in	in	ADP	
+1	60	13	collaboration	collaboration	NOUN	
+1	60	14	" 
+
+"	" 
+
+"	SPACE	
+1	60	15	3	3	NUM	CARDINAL
+1	60	16	E.g.	E.g.	PROPN	
+1	60	17	other	other	ADJ	
+1	60	18	higher	high	ADJ	
+1	60	19	education	education	NOUN	
+1	60	20	institutions	institution	NOUN	
+1	60	21	,	,	PUNCT	
+1	60	22	public	public	ADJ	
+1	60	23	authorities	authority	NOUN	
+1	60	24	,	,	PUNCT	
+1	60	25	the	the	DET	
+1	60	26	business	business	NOUN	
+1	60	27	"
+"	"
+"	SPACE	
+1	60	28	sector	sector	NOUN	
+1	60	29	,	,	PUNCT	
+1	60	30	civil	civil	ADJ	
+1	60	31	society	society	NOUN	
+1	60	32	and	and	CCONJ	
+1	60	33	citizens	citizen	NOUN	
+1	60	34	.	.	PUNCT	
+1	61	1	Page	page	NOUN	ORG
+1	61	2	4	4	NUM	ORG
+1	61	3	"
 
 "	"
 
 "	SPACE	ORG
-1	53	4	4	4	NUM	CARDINAL
-1	53	5	(	(	PUNCT	
-1	53	6	4	4	NUM	CARDINAL
-1	53	7	)	)	PUNCT	
-1	53	8	" 
+1	61	4	4	4	NUM	CARDINAL
+1	61	5	(	(	PUNCT	
+1	61	6	4	4	NUM	CARDINAL
+1	61	7	)	)	PUNCT	
+1	61	8	" 
 
 "	" 
 
 "	SPACE	
-1	53	9	with	with	ADP	
-1	53	10	organisations	organisation	NOUN	
-1	53	11	in	in	ADP	
-1	53	12	society	society	NOUN	
-1	53	13	,	,	PUNCT	
-1	53	14	but	but	CCONJ	
-1	53	15	also	also	ADV	
-1	53	16	contributes	contribute	VERB	
-1	53	17	by	by	ADP	
-1	53	18	critically	critically	ADV	
-1	53	19	reviewing	review	VERB	
-1	53	20	"
+1	61	9	with	with	ADP	
+1	61	10	organisations	organisation	NOUN	
+1	61	11	in	in	ADP	
+1	61	12	society	society	NOUN	
+1	61	13	,	,	PUNCT	
+1	61	14	but	but	CCONJ	
+1	61	15	also	also	ADV	
+1	61	16	contributes	contribute	VERB	
+1	61	17	by	by	ADP	
+1	61	18	critically	critically	ADV	
+1	61	19	reviewing	review	VERB	
+1	61	20	"
 "	"
 "	SPACE	
-1	53	21	societys	societys	ADJ	
-1	53	22	ef-	ef-	ADJ	
-1	53	23	" 
+1	61	21	society	society	NOUN	
+1	61	22	’s	’s	PART	
+1	61	23	ef-	ef-	ADJ	
+1	61	24	" 
 "	" 
 "	SPACE	
-1	53	24	forts	fort	NOUN	
-1	53	25	regarding	regard	VERB	
-1	53	26	sustainable	sustainable	ADJ	
-1	53	27	development	development	NOUN	
-1	53	28	.	.	PUNCT	
-1	54	1	Researchers	researcher	NOUN	
-1	54	2	at	at	ADP	
-1	54	3	Lund	Lund	PROPN	ORG
-1	54	4	University	University	PROPN	ORG
-1	54	5	play	play	VERB	
-1	54	6	a	a	DET	
-1	54	7	prominent	prominent	ADJ	
-1	54	8	part	part	NOUN	
-1	54	9	in	in	ADP	
-1	54	10	sustainability-	sustainability-	PROPN	
-1	54	11	"
-"	"
-"	SPACE	
-1	54	12	related	relate	VERB	
-1	54	13	local	local	ADJ	
-1	54	14	,	,	PUNCT	
-1	54	15	re-	re-	ADV	
-1	54	16	" 
-
-"	" 
-
-"	SPACE	
-1	54	17	gional	gional	ADJ	
-1	54	18	,	,	PUNCT	
-1	54	19	national	national	ADJ	
-1	54	20	and	and	CCONJ	
-1	54	21	global	global	ADJ	
-1	54	22	arenas	arena	NOUN	
-1	54	23	by	by	ADP	
-1	54	24	compiling	compile	VERB	
-1	54	25	knowledge	knowledge	NOUN	
-1	54	26	,	,	PUNCT	
-1	54	27	drawing	draw	VERB	
-1	54	28	up	up	ADP	
-1	54	29	research	research	NOUN	
-1	54	30	"
-"	"
-"	SPACE	
-1	54	31	agendas	agenda	NOUN	
-1	54	32	,	,	PUNCT	
-1	54	33	" 
-"	" 
-"	SPACE	
-1	54	34	and	and	CCONJ	
-1	54	35	as	as	ADP	
-1	54	36	experts	expert	NOUN	
-1	54	37	.	.	PUNCT	
-1	55	1	Dynamic	dynamic	ADJ	
-1	55	2	and	and	CCONJ	
-1	55	3	integrating	integrate	VERB	
-1	55	4	arenas	arena	NOUN	
-1	55	5	for	for	ADP	
-1	55	6	external	external	ADJ	
-1	55	7	engagement	engagement	NOUN	
-1	55	8	with	with	ADP	
-1	55	9	public	public	ADJ	
-1	55	10	"
-"	"
-"	SPACE	
-1	55	11	authorities	authority	NOUN	
-1	55	12	,	,	PUNCT	
-1	55	13	the	the	DET	
-1	55	14	busi-	busi-	NOUN	
-1	55	15	" 
-"	" 
-"	SPACE	
-1	55	16	ness	ness	ADJ	
-1	55	17	sector	sector	NOUN	
-1	55	18	and	and	CCONJ	
-1	55	19	civil	civil	ADJ	
-1	55	20	society	society	NOUN	
-1	55	21	are	be	AUX	
-1	55	22	used	use	VERB	
-1	55	23	to	to	PART	
-1	55	24	jointly	jointly	ADV	
-1	55	25	contribute	contribute	VERB	
-1	55	26	to	to	ADP	
-1	55	27	sustainable	sustainable	ADJ	
-1	55	28	"
-"	"
-"	SPACE	
-1	55	29	development	development	NOUN	
-1	55	30	.	.	PUNCT	
-1	56	1	Lund	Lund	PROPN	ORG
-1	56	2	University	University	PROPN	ORG
-1	56	3	provides	provide	VERB	
-1	56	4	resources	resource	NOUN	
-1	56	5	for	for	ADP	
-1	56	6	academic	academic	ADJ	
-1	56	7	capacity	capacity	NOUN	
-1	56	8	development	development	NOUN	
-1	56	9	in	in	ADP	
-1	56	10	"
-"	"
-"	SPACE	
-1	56	11	developing	develop	VERB	
-1	56	12	" 
-
-"	" 
-
-"	SPACE	
-1	56	13	countries	country	NOUN	
-1	56	14	through	through	ADP	
-1	56	15	partnerships	partnership	NOUN	
-1	56	16	and	and	CCONJ	
-1	56	17	student	student	NOUN	
-1	56	18	and	and	CCONJ	
-1	56	19	teaching	teaching	NOUN	
-1	56	20	staff	staff	NOUN	
-1	56	21	exchanges	exchange	NOUN	
-1	56	22	.	.	PUNCT	
-1	56	23	" 
-
-"	" 
-
-"	SPACE	
-1	56	24	2.5	2.5	NUM	CARDINAL
-1	56	25	" 
-
-"	" 
-
-"	SPACE	
-1	56	26	A	a	DET	
-1	56	27	sustainable	sustainable	ADJ	
-1	56	28	organisation	organisation	NOUN	
-1	56	29	" 
-
-"	" 
-
-"	SPACE	
-1	56	30	Lund	Lund	PROPN	ORG
-1	56	31	Universitys	Universitys	PROPN	ORG
-1	56	32	operations	operation	NOUN	
-1	56	33	strive	strive	VERB	
-1	56	34	to	to	PART	
-1	56	35	constantly	constantly	ADV	
-1	56	36	improve	improve	VERB	
-1	56	37	their	their	PRON	
-1	56	38	sustainability	sustainability	NOUN	
-1	56	39	"
-"	"
-"	SPACE	
-1	56	40	management	management	NOUN	
-1	56	41	and	and	CCONJ	
-1	56	42	" 
-"	" 
-"	SPACE	
-1	56	43	show	show	VERB	
-1	56	44	in	in	ADP	
-1	56	45	concrete	concrete	ADJ	
-1	56	46	terms	term	NOUN	
-1	56	47	that	that	SCONJ	
-1	56	48	sustainable	sustainable	ADJ	
-1	56	49	development	development	NOUN	
-1	56	50	works	work	VERB	
-1	56	51	in	in	ADP	
-1	56	52	practice	practice	NOUN	
-1	56	53	.	.	PUNCT	
-1	57	1	The	the	DET	
-1	57	2	"
-"	"
-"	SPACE	
-1	57	3	work	work	NOUN	
-1	57	4	and	and	CCONJ	
-1	57	5	study	study	VERB	
-1	57	6	envi-	envi-	PROPN	
-1	57	7	" 
-"	" 
-"	SPACE	
-1	57	8	ronment	ronment	NOUN	
-1	57	9	is	be	AUX	
-1	57	10	inclusive	inclusive	ADJ	
-1	57	11	,	,	PUNCT	
-1	57	12	enriching	enrich	VERB	
-1	57	13	,	,	PUNCT	
-1	57	14	stimulating	stimulating	ADJ	
-1	57	15	,	,	PUNCT	
-1	57	16	safe	safe	ADJ	
-1	57	17	and	and	CCONJ	
-1	57	18	secure	secure	ADJ	
-1	57	19	.	.	PUNCT	
-1	58	1	The	the	DET	
-1	58	2	"
-"	"
-"	SPACE	
-1	58	3	international	international	ADJ	
-1	58	4	environment	environment	NOUN	
-1	58	5	that	that	PRON	
-1	58	6	" 
-"	" 
-"	SPACE	
-1	58	7	characterises	characterise	VERB	
-1	58	8	Lund	Lund	PROPN	ORG
-1	58	9	University	University	PROPN	ORG
-1	58	10	contributes	contribute	VERB	
-1	58	11	to	to	ADP	
-1	58	12	promoting	promote	VERB	
-1	58	13	,	,	PUNCT	
-1	58	14	spreading	spread	VERB	
-1	58	15	and	and	CCONJ	
-1	58	16	"
-"	"
-"	SPACE	
-1	58	17	deepening	deepen	VERB	
-1	58	18	a	a	DET	
-1	58	19	positive	positive	ADJ	
-1	58	20	under-	under-	NOUN	
-1	58	21	" 
-"	" 
-"	SPACE	
-1	58	22	standing	standing	NOUN	
-1	58	23	of	of	ADP	
-1	58	24	other	other	ADJ	
-1	58	25	cultures	culture	NOUN	
-1	58	26	,	,	PUNCT	
-1	58	27	ideologies	ideology	NOUN	
-1	58	28	and	and	CCONJ	
-1	58	29	frames	frame	NOUN	
-1	58	30	of	of	ADP	
-1	58	31	reference	reference	NOUN	
-1	58	32	for	for	ADP	
-1	58	33	human	human	ADJ	
-1	58	34	"
-"	"
-"	SPACE	
-1	58	35	behaviour	behaviour	NOUN	
-1	58	36	.	.	PUNCT	
-1	59	1	Visions	vision	NOUN	
-1	59	2	for	for	ADP	
-1	59	3	the	the	DET	
-1	59	4	organisation	organisation	NOUN	
-1	59	5	:	:	PUNCT	
-1	59	6	" 
-
- "	" 
-
- "	SPACE	
-1	59	7	Lund	Lund	PROPN	ORG
-1	59	8	University	University	PROPN	ORG
-1	59	9	maintains	maintain	VERB	
-1	59	10	a	a	DET	
-1	59	11	good	good	ADJ	
-1	59	12	,	,	PUNCT	
-1	59	13	safe	safe	ADJ	
-1	59	14	,	,	PUNCT	
-1	59	15	secure	secure	ADJ	
-1	59	16	and	and	CCONJ	
-1	59	17	accessible	accessible	ADJ	
-1	59	18	work	work	NOUN	
-1	59	19	"
-"	"
-"	SPACE	
-1	59	20	environment	environment	NOUN	
-1	59	21	in	in	ADP	
-1	59	22	all	all	DET	
-1	59	23	respects	respect	NOUN	
-1	59	24	.	.	PUNCT	
-1	60	1	Lund	Lund	PROPN	ORG
-1	60	2	University	University	PROPN	ORG
-1	60	3	is	be	AUX	
-1	60	4	a	a	DET	
-1	60	5	resource	resource	NOUN	
-1	60	6	-	-	PUNCT	
-1	60	7	efficient	efficient	ADJ	
-1	60	8	organisation	organisation	NOUN	
-1	60	9	,	,	PUNCT	
-1	60	10	with	with	ADP	
-1	60	11	a	a	DET	
-1	60	12	minimised	minimised	ADJ	
-1	60	13	"
-"	"
-"	SPACE	
-1	60	14	climate	climate	NOUN	
-1	60	15	and	and	CCONJ	
-1	60	16	environmental	environmental	ADJ	
-1	60	17	" 
-
-"	" 
-
-"	SPACE	
-1	60	18	impact	impact	NOUN	
-1	60	19	.	.	PUNCT	
-1	61	1	Activities	activity	NOUN	
-1	61	2	at	at	ADP	
-1	61	3	Lund	Lund	PROPN	ORG
-1	61	4	University	University	PROPN	ORG
-1	61	5	are	be	AUX	
-1	61	6	based	base	VERB	
-1	61	7	on	on	ADP	
-1	61	8	gender	gender	NOUN	
-1	61	9	equality	equality	NOUN	
-1	61	10	,	,	PUNCT	
-1	61	11	equal	equal	ADJ	
-1	61	12	"
-"	"
-"	SPACE	
-1	61	13	opportunities	opportunity	NOUN	
-1	61	14	and	and	CCONJ	
-1	61	15	diversity	diversity	NOUN	
-1	61	16	" 
-
-"	" 
-
-"	SPACE	
-1	61	17	and	and	CCONJ	
-1	61	18	use	use	VERB	
-1	61	19	the	the	DET	
-1	61	20	strengths	strength	NOUN	
-1	61	21	that	that	SCONJ	
-1	61	22	this	this	PRON	
-1	61	23	entails	entail	VERB	
-1	61	24	.	.	PUNCT	
-1	62	1	Lund	Lund	PROPN	ORG
-1	62	2	University	University	PROPN	ORG
-1	62	3	works	work	VERB	
-1	62	4	for	for	ADP	
-1	62	5	the	the	DET	
-1	62	6	integration	integration	NOUN	
-1	62	7	of	of	ADP	
-1	62	8	new	new	ADJ	
-1	62	9	arrivals	arrival	NOUN	
+1	61	25	forts	fort	NOUN	
+1	61	26	regarding	regard	VERB	
+1	61	27	sustainable	sustainable	ADJ	
+1	61	28	development	development	NOUN	
+1	61	29	.	.	PUNCT	
+1	62	1			PUNCT	
+1	62	2	Researchers	researcher	NOUN	
+1	62	3	at	at	ADP	
+1	62	4	Lund	Lund	PROPN	
+1	62	5	University	University	PROPN	
+1	62	6	play	play	VERB	
+1	62	7	a	a	DET	
+1	62	8	prominent	prominent	ADJ	
+1	62	9	part	part	NOUN	
 1	62	10	in	in	ADP	
-1	62	11	Sweden	Sweden	PROPN	GPE
-1	62	12	and	and	CCONJ	
-1	62	13	"
+1	62	11	sustainability-	sustainability-	PROPN	
+1	62	12	"
 "	"
 "	SPACE	
-1	62	14	their	their	PRON	
-1	62	15	entry	entry	NOUN	
-1	62	16	into	into	ADP	
+1	62	13	related	relate	VERB	
+1	62	14	local	local	ADJ	
+1	62	15	,	,	PUNCT	
+1	62	16	re-	re-	ADV	
 1	62	17	" 
 
 "	" 
 
 "	SPACE	
-1	62	18	working	work	VERB	
-1	62	19	life	life	NOUN	
-1	62	20	,	,	PUNCT	
-1	62	21	including	include	VERB	
-1	62	22	academics	academic	NOUN	
-1	62	23	.	.	PUNCT	
-1	63	1	3\.	3\.	NUM	CARDINAL
-1	63	2	Implementation	implementation	NOUN	
+1	62	18	gional	gional	ADJ	
+1	62	19	,	,	PUNCT	
+1	62	20	national	national	ADJ	
+1	62	21	and	and	CCONJ	
+1	62	22	global	global	ADJ	
+1	62	23	arenas	arena	NOUN	
+1	62	24	by	by	ADP	
+1	62	25	compiling	compile	VERB	
+1	62	26	knowledge	knowledge	NOUN	
+1	62	27	,	,	PUNCT	
+1	62	28	drawing	draw	VERB	
+1	62	29	up	up	ADP	
+1	62	30	research	research	NOUN	
+1	62	31	"
+"	"
+"	SPACE	
+1	62	32	agendas	agenda	NOUN	
+1	62	33	,	,	PUNCT	
+1	62	34	" 
+"	" 
+"	SPACE	
+1	62	35	and	and	CCONJ	
+1	62	36	as	as	ADP	
+1	62	37	experts	expert	NOUN	
+1	62	38	.	.	PUNCT	
+1	63	1			PUNCT	
+1	63	2	Dynamic	dynamic	ADJ	
 1	63	3	and	and	CCONJ	
-1	63	4	follow	follow	VERB	
-1	63	5	up	up	ADP	
-1	63	6	" 
-
-"	" 
-
-"	SPACE	
-1	63	7	The	the	DET	
-1	63	8	strategy	strategy	NOUN	
-1	63	9	for	for	ADP	
-1	63	10	sustainable	sustainable	ADJ	
-1	63	11	development	development	NOUN	
-1	63	12	affects	affect	NOUN	
-1	63	13	,	,	PUNCT	
-1	63	14	and	and	CCONJ	
-1	63	15	sets	set	VERB	
-1	63	16	requirements	requirement	NOUN	
-1	63	17	for	for	ADP	
-1	63	18	,	,	PUNCT	
-1	63	19	"
+1	63	4	integrating	integrate	VERB	
+1	63	5	arenas	arena	NOUN	
+1	63	6	for	for	ADP	
+1	63	7	external	external	ADJ	
+1	63	8	engagement	engagement	NOUN	
+1	63	9	with	with	ADP	
+1	63	10	public	public	ADJ	
+1	63	11	"
 "	"
 "	SPACE	
-1	63	20	all	all	DET	
-1	63	21	parts	part	NOUN	
-1	63	22	of	of	ADP	
-1	63	23	Lund	Lund	PROPN	
-1	63	24	Univer-	Univer-	PROPN	
-1	63	25	" 
+1	63	12	authorities	authority	NOUN	
+1	64	1	,	,	PUNCT	
+1	64	2	the	the	DET	
+1	64	3	busi-	busi-	NOUN	
+1	64	4	" 
 "	" 
 "	SPACE	
-1	63	26	sity	sity	NOUN	
-1	63	27	.	.	PUNCT	
-1	64	1	Faculties	faculty	NOUN	
-1	64	2	and	and	CCONJ	
-1	64	3	other	other	ADJ	
-1	64	4	organisations	organisation	NOUN	
-1	64	5	within	within	ADP	
-1	64	6	the	the	DET	
-1	64	7	University	University	PROPN	ORG
-1	64	8	develop	develop	VERB	
-1	64	9	their	their	PRON	
-1	64	10	"
+1	64	5	ness	ness	ADJ	
+1	64	6	sector	sector	NOUN	
+1	64	7	and	and	CCONJ	
+1	64	8	civil	civil	ADJ	
+1	64	9	society	society	NOUN	
+1	64	10	are	be	AUX	
+1	64	11	used	use	VERB	
+1	64	12	to	to	PART	
+1	64	13	jointly	jointly	ADV	
+1	64	14	contribute	contribute	VERB	
+1	64	15	to	to	ADP	
+1	64	16	sustainable	sustainable	ADJ	
+1	64	17	"
 "	"
 "	SPACE	
-1	64	11	specific	specific	ADJ	
-1	64	12	strategies	strategy	NOUN	
-1	64	13	as	as	ADV	
-1	64	14	well	well	ADV	
-1	64	15	" 
-"	" 
-"	SPACE	
-1	64	16	as	as	ADP	
-1	64	17	plan	plan	NOUN	
-1	64	18	and	and	CCONJ	
-1	64	19	run	run	VERB	
-1	64	20	their	their	PRON	
-1	64	21	operations	operation	NOUN	
-1	64	22	based	base	VERB	
-1	64	23	on	on	ADP	
-1	64	24	the	the	DET	
-1	64	25	strategy	strategy	NOUN	
-1	64	26	for	for	ADP	
-1	64	27	sustainable	sustainable	ADJ	
-1	64	28	"
+1	64	18	development	development	NOUN	
+1	64	19	.	.	PUNCT	
+1	65	1			NOUN	
+1	66	1	Lund	Lund	PROPN	ORG
+1	66	2	University	University	PROPN	ORG
+1	66	3	provides	provide	VERB	
+1	66	4	resources	resource	NOUN	
+1	66	5	for	for	ADP	
+1	66	6	academic	academic	ADJ	
+1	66	7	capacity	capacity	NOUN	
+1	66	8	development	development	NOUN	
+1	66	9	in	in	ADP	
+1	66	10	"
 "	"
 "	SPACE	
-1	64	29	development	development	NOUN	
-1	64	30	.	.	PUNCT	
-1	65	1	Faculties	faculty	NOUN	
-1	65	2	and	and	CCONJ	
-1	65	3	" 
-"	" 
-"	SPACE	
-1	65	4	equivalent	equivalent	ADJ	
-1	65	5	organisations	organisation	NOUN	
-1	65	6	draw	draw	VERB	
-1	65	7	up	up	ADP	
-1	65	8	their	their	PRON	
-1	65	9	own	own	ADJ	
-1	65	10	action	action	NOUN	
-1	65	11	plans	plan	NOUN	
-1	65	12	that	that	PRON	
-1	65	13	outline	outline	NOUN	
-1	65	14	division	division	NOUN	
-1	65	15	"
-"	"
-"	SPACE	
-1	65	16	of	of	ADP	
-1	65	17	responsibilities	responsibility	NOUN	
-1	65	18	,	,	PUNCT	
-1	65	19	roles	role	NOUN	
-1	65	20	" 
-"	" 
-"	SPACE	
-1	65	21	and	and	CCONJ	
-1	65	22	resources	resource	NOUN	
-1	65	23	in	in	ADP	
-1	65	24	order	order	NOUN	
-1	65	25	to	to	PART	
-1	65	26	realise	realise	VERB	
-1	65	27	the	the	DET	
-1	65	28	visions	vision	NOUN	
-1	65	29	in	in	ADP	
-1	65	30	the	the	DET	
-1	65	31	strategy	strategy	NOUN	
-1	65	32	as	as	ADV	
-1	65	33	well	well	ADV	
-1	65	34	as	as	ADP	
-1	65	35	how	how	SCONJ	
-1	65	36	"
-"	"
-"	SPACE	
-1	65	37	these	these	DET	
-1	65	38	plans	plan	NOUN	
-1	65	39	are	be	AUX	
-1	65	40	to	to	PART	
-1	65	41	be	be	AUX	
-1	65	42	fol-	fol-	ADV	
-1	65	43	" 
-"	" 
-"	SPACE	
-1	65	44	lowed	low	VERB	
-1	65	45	up	up	ADP	
-1	65	46	,	,	PUNCT	
-1	65	47	evaluated	evaluate	VERB	
-1	65	48	and	and	CCONJ	
-1	65	49	,	,	PUNCT	
-1	65	50	if	if	SCONJ	
-1	65	51	required	require	VERB	
-1	65	52	,	,	PUNCT	
-1	65	53	revised	revise	VERB	
-1	65	54	.	.	PUNCT	
-1	66	1	As	as	ADP	
-1	66	2	the	the	DET	
-1	66	3	focus	focus	NOUN	
-1	66	4	,	,	PUNCT	
-1	66	5	conditions	condition	NOUN	
-1	66	6	and	and	CCONJ	
-1	66	7	"
-"	"
-"	SPACE	
-1	66	8	organisation	organisation	NOUN	
-1	66	9	of	of	ADP	
-1	66	10	work	work	NOUN	
-1	66	11	on	on	ADP	
+1	66	11	developing	develop	VERB	
 1	66	12	" 
+
 "	" 
+
 "	SPACE	
-1	66	13	sustainable	sustainable	ADJ	
-1	66	14	development	development	NOUN	
-1	66	15	management	management	NOUN	
-1	66	16	varies	vary	VERB	
-1	66	17	between	between	ADP	
-1	66	18	the	the	DET	
-1	66	19	Universitys	Universitys	PROPN	ORG
-1	66	20	different	different	ADJ	
-1	66	21	"
+1	66	13	countries	country	NOUN	
+1	66	14	through	through	ADP	
+1	66	15	partnerships	partnership	NOUN	
+1	66	16	and	and	CCONJ	
+1	66	17	student	student	NOUN	
+1	66	18	and	and	CCONJ	
+1	66	19	teaching	teaching	NOUN	
+1	66	20	staff	staff	NOUN	
+1	66	21	exchanges	exchange	NOUN	
+1	66	22	.	.	PUNCT	
+1	66	23	" 
+
+"	" 
+
+"	SPACE	
+1	66	24	2.5	2.5	NUM	CARDINAL
+1	66	25	" 
+
+"	" 
+
+"	SPACE	
+1	66	26	A	a	DET	
+1	66	27	sustainable	sustainable	ADJ	
+1	66	28	organisation	organisation	NOUN	
+1	66	29	" 
+
+"	" 
+
+"	SPACE	
+1	66	30	Lund	Lund	PROPN	ORG
+1	66	31	University	University	PROPN	ORG
+1	66	32	’s	’s	PART	ORG
+1	66	33	operations	operation	NOUN	
+1	66	34	strive	strive	VERB	
+1	66	35	to	to	PART	
+1	66	36	constantly	constantly	ADV	
+1	66	37	improve	improve	VERB	
+1	66	38	their	their	PRON	
+1	66	39	sustainability	sustainability	NOUN	
+1	66	40	"
 "	"
 "	SPACE	
-1	66	22	units	unit	NOUN	
-1	66	23	,	,	PUNCT	
-1	66	24	these	these	DET	
-1	66	25	deter-	deter-	NOUN	
-1	66	26	" 
+1	66	41	management	management	NOUN	
+1	66	42	and	and	CCONJ	
+1	66	43	" 
 "	" 
 "	SPACE	
-1	66	27	mine	mine	NOUN	
-1	66	28	how	how	SCONJ	
-1	66	29	the	the	DET	
-1	66	30	work	work	NOUN	
-1	66	31	to	to	PART	
-1	66	32	achieve	achieve	VERB	
-1	66	33	Lund	Lund	PROPN	PERSON
-1	66	34	Universitys	Universitys	PROPN	PERSON
-1	66	35	shared	share	VERB	
-1	66	36	vision	vision	NOUN	
-1	66	37	and	and	CCONJ	
-1	66	38	goals	goal	NOUN	
-1	66	39	is	be	AUX	
-1	66	40	to	to	PART	
-1	66	41	"
+1	66	44	show	show	VERB	
+1	66	45	in	in	ADP	
+1	66	46	concrete	concrete	ADJ	
+1	66	47	terms	term	NOUN	
+1	66	48	that	that	SCONJ	
+1	66	49	sustainable	sustainable	ADJ	
+1	66	50	development	development	NOUN	
+1	66	51	works	work	VERB	
+1	66	52	in	in	ADP	
+1	66	53	practice	practice	NOUN	
+1	66	54	.	.	PUNCT	
+1	67	1	The	the	DET	
+1	67	2	"
 "	"
 "	SPACE	
-1	66	42	be	be	AUX	
-1	66	43	conducted	conduct	VERB	
-1	66	44	and	and	CCONJ	
-1	66	45	fol-	fol-	NOUN	
-1	66	46	" 
+1	67	3	work	work	NOUN	
+1	67	4	and	and	CCONJ	
+1	67	5	study	study	VERB	
+1	67	6	envi-	envi-	PROPN	
+1	67	7	" 
 "	" 
 "	SPACE	
-1	66	47	lowed	low	VERB	
-1	66	48	up	up	ADP	
-1	66	49	.	.	PUNCT	
-1	67	1	Overall	overall	ADJ	
-1	67	2	reporting	reporting	NOUN	
-1	67	3	,	,	PUNCT	
-1	67	4	with	with	ADP	
-1	67	5	associated	associate	VERB	
-1	67	6	evaluations	evaluation	NOUN	
-1	67	7	of	of	ADP	
-1	67	8	how	how	SCONJ	
-1	67	9	the	the	DET	
-1	67	10	strategy	strategy	NOUN	
-1	67	11	"
-"	"
-"	SPACE	
-1	67	12	is	be	AUX	
-1	67	13	being	be	AUX	
-1	67	14	implemented	implement	VERB	
+1	67	8	ronment	ronment	NOUN	
+1	67	9	is	be	AUX	
+1	67	10	inclusive	inclusive	ADJ	
+1	67	11	,	,	PUNCT	
+1	67	12	enriching	enrich	VERB	
+1	67	13	,	,	PUNCT	
+1	67	14	stimulating	stimulating	ADJ	
 1	67	15	,	,	PUNCT	
-1	67	16	is	be	AUX	
-1	67	17	" 
-"	" 
-"	SPACE	
-1	67	18	carried	carry	VERB	
-1	67	19	out	out	ADP	
-1	67	20	annually	annually	ADV	DATE
-1	67	21	within	within	ADP	
-1	67	22	the	the	DET	
-1	67	23	framework	framework	NOUN	
-1	67	24	of	of	ADP	
-1	67	25	the	the	DET	
-1	67	26	annual	annual	ADJ	DATE
-1	67	27	report	report	NOUN	
-1	67	28	processes	process	VERB	
-1	67	29	at	at	ADP	
-1	67	30	"
+1	67	16	safe	safe	ADJ	
+1	67	17	and	and	CCONJ	
+1	67	18	secure	secure	ADJ	
+1	67	19	.	.	PUNCT	
+1	68	1	The	the	DET	
+1	68	2	"
 "	"
 "	SPACE	
-1	67	31	faculty	faculty	NOUN	
-1	67	32	level	level	NOUN	
-1	67	33	and	and	CCONJ	
-1	67	34	for	for	ADP	
-1	67	35	" 
+1	68	3	international	international	ADJ	
+1	68	4	environment	environment	NOUN	
+1	68	5	that	that	PRON	
+1	68	6	" 
 "	" 
 "	SPACE	
-1	67	36	Lund	Lund	PROPN	
-1	67	37	University	University	PROPN	
-1	67	38	as	as	ADP	
-1	67	39	a	a	DET	
-1	67	40	whole	whole	NOUN	
-1	67	41	.	.	PUNCT	
-1	68	1	Managers	manager	NOUN	
-1	68	2	and	and	CCONJ	
-1	68	3	management	management	NOUN	
-1	68	4	groups	group	NOUN	
-1	68	5	at	at	ADP	
-1	68	6	all	all	DET	
-1	68	7	levels	level	NOUN	
-1	68	8	are	be	AUX	
-1	68	9	responsible	responsible	ADJ	
-1	68	10	for	for	ADP	
-1	68	11	considering	consider	VERB	
-1	68	12	"
+1	68	7	characterises	characterise	VERB	
+1	68	8	Lund	Lund	PROPN	ORG
+1	68	9	University	University	PROPN	ORG
+1	68	10	contributes	contribute	VERB	
+1	68	11	to	to	ADP	
+1	68	12	promoting	promote	VERB	
+1	68	13	,	,	PUNCT	
+1	68	14	spreading	spread	VERB	
+1	68	15	and	and	CCONJ	
+1	68	16	"
 "	"
 "	SPACE	
-1	68	13	matters	matter	NOUN	
-1	68	14	" 
+1	68	17	deepening	deepen	VERB	
+1	68	18	a	a	DET	
+1	68	19	positive	positive	ADJ	
+1	68	20	under-	under-	NOUN	
+1	68	21	" 
+"	" 
+"	SPACE	
+1	68	22	standing	standing	NOUN	
+1	68	23	of	of	ADP	
+1	68	24	other	other	ADJ	
+1	68	25	cultures	culture	NOUN	
+1	68	26	,	,	PUNCT	
+1	68	27	ideologies	ideology	NOUN	
+1	68	28	and	and	CCONJ	
+1	68	29	frames	frame	NOUN	
+1	68	30	of	of	ADP	
+1	68	31	reference	reference	NOUN	
+1	68	32	for	for	ADP	
+1	68	33	human	human	ADJ	
+1	68	34	"
+"	"
+"	SPACE	
+1	68	35	behaviour	behaviour	NOUN	
+1	68	36	.	.	PUNCT	
+1	69	1	Visions	vision	NOUN	
+1	69	2	for	for	ADP	
+1	69	3	the	the	DET	
+1	69	4	organisation	organisation	NOUN	
+1	69	5	:	:	PUNCT	
+1	69	6	" 
 
 "	" 
 
 "	SPACE	
-1	68	15	relating	relate	VERB	
-1	68	16	to	to	ADP	
-1	68	17	sustainable	sustainable	ADJ	
-1	68	18	development	development	NOUN	
-1	68	19	in	in	ADP	
-1	68	20	decision	decision	NOUN	
-1	68	21	,	,	PUNCT	
-1	68	22	implementation	implementation	NOUN	
-1	68	23	and	and	CCONJ	
-1	68	24	follow	follow	VERB	
-1	68	25	up	up	ADP	
-1	68	26	"
-"	"
-"	SPACE	
-1	68	27	processes	process	NOUN	
-1	68	28	.	.	PUNCT	
-1	69	1	All	all	DET	
-1	69	2	employees	employee	NOUN	
-1	69	3	are	be	AUX	
-1	69	4	responsible	responsible	ADJ	
-1	69	5	for	for	ADP	
-1	69	6	their	their	PRON	
-1	69	7	work	work	NOUN	
-1	69	8	contributing	contribute	VERB	
-1	69	9	to	to	ADP	
-1	69	10	the	the	DET	
-1	69	11	realisation	realisation	NOUN	
-1	69	12	"
-"	"
-"	SPACE	
-1	69	13	of	of	ADP	
-1	69	14	the	the	DET	
-1	69	15	strategys	strategys	NOUN	
-1	69	16	inten-	inten-	NUM	
-1	69	17	" 
-
-"	" 
-
-"	SPACE	
-1	69	18	tions	tion	NOUN	
-1	69	19	.	.	PUNCT	
-1	70	1	Page	page	NOUN	
-1	70	2	:	:	PUNCT	
-1	70	3	1	1	NUM	CARDINAL
-1	70	4	,	,	PUNCT	
-1	70	5	2	2	NUM	DATE
+1	69	7			NOUN	
+1	70	1	Lund	Lund	PROPN	ORG
+1	70	2	University	University	PROPN	ORG
+1	70	3	maintains	maintain	VERB	
+1	70	4	a	a	DET	
+1	70	5	good	good	ADJ	
 1	70	6	,	,	PUNCT	
-1	70	7	3	3	NUM	DATE
+1	70	7	safe	safe	ADJ	
 1	70	8	,	,	PUNCT	
-1	70	9	4	4	NUM	CARDINAL
+1	70	9	secure	secure	ADJ	
+1	70	10	and	and	CCONJ	
+1	70	11	accessible	accessible	ADJ	
+1	70	12	work	work	NOUN	
+1	70	13	"
+"	"
+"	SPACE	
+1	70	14	environment	environment	NOUN	
+1	70	15	in	in	ADP	
+1	70	16	all	all	DET	
+1	70	17	respects	respect	NOUN	
+1	70	18	.	.	PUNCT	
+1	71	1			NOUN	
+1	72	1	Lund	Lund	PROPN	ORG
+1	72	2	University	University	PROPN	ORG
+1	72	3	is	be	AUX	
+1	72	4	a	a	DET	
+1	72	5	resource	resource	NOUN	
+1	72	6	-	-	PUNCT	
+1	72	7	efficient	efficient	ADJ	
+1	72	8	organisation	organisation	NOUN	
+1	72	9	,	,	PUNCT	
+1	72	10	with	with	ADP	
+1	72	11	a	a	DET	
+1	72	12	minimised	minimised	ADJ	
+1	72	13	"
+"	"
+"	SPACE	
+1	72	14	climate	climate	NOUN	
+1	72	15	and	and	CCONJ	
+1	72	16	environmental	environmental	ADJ	
+1	72	17	" 
+
+"	" 
+
+"	SPACE	
+1	72	18	impact	impact	NOUN	
+1	72	19	.	.	PUNCT	
+1	73	1			PUNCT	
+1	73	2	Activities	activity	NOUN	
+1	73	3	at	at	ADP	
+1	73	4	Lund	Lund	PROPN	ORG
+1	73	5	University	University	PROPN	ORG
+1	73	6	are	be	AUX	
+1	73	7	based	base	VERB	
+1	73	8	on	on	ADP	
+1	73	9	gender	gender	NOUN	
+1	73	10	equality	equality	NOUN	
+1	73	11	,	,	PUNCT	
+1	73	12	equal	equal	ADJ	
+1	73	13	"
+"	"
+"	SPACE	
+1	73	14	opportunities	opportunity	NOUN	
+1	73	15	and	and	CCONJ	
+1	73	16	diversity	diversity	NOUN	
+1	73	17	" 
+
+"	" 
+
+"	SPACE	
+1	73	18	and	and	CCONJ	
+1	73	19	use	use	VERB	
+1	73	20	the	the	DET	
+1	73	21	strengths	strength	NOUN	
+1	73	22	that	that	SCONJ	
+1	73	23	this	this	PRON	
+1	73	24	entails	entail	VERB	
+1	73	25	.	.	PUNCT	
+1	74	1			NOUN	
+1	75	1	Lund	Lund	PROPN	ORG
+1	75	2	University	University	PROPN	ORG
+1	75	3	works	work	VERB	
+1	75	4	for	for	ADP	
+1	75	5	the	the	DET	
+1	75	6	integration	integration	NOUN	
+1	75	7	of	of	ADP	
+1	75	8	new	new	ADJ	
+1	75	9	arrivals	arrival	NOUN	
+1	75	10	in	in	ADP	
+1	75	11	Sweden	Sweden	PROPN	GPE
+1	75	12	and	and	CCONJ	
+1	75	13	"
+"	"
+"	SPACE	
+1	75	14	their	their	PRON	
+1	75	15	entry	entry	NOUN	
+1	75	16	into	into	ADP	
+1	75	17	" 
+
+"	" 
+
+"	SPACE	
+1	75	18	working	work	VERB	
+1	75	19	life	life	NOUN	
+1	75	20	,	,	PUNCT	
+1	75	21	including	include	VERB	
+1	75	22	academics	academic	NOUN	
+1	75	23	.	.	PUNCT	
+1	76	1	3\.	3\.	NUM	CARDINAL
+1	76	2	Implementation	implementation	NOUN	
+1	76	3	and	and	CCONJ	
+1	76	4	follow	follow	VERB	
+1	76	5	up	up	ADP	
+1	76	6	" 
+
+"	" 
+
+"	SPACE	
+1	76	7	The	the	DET	
+1	76	8	strategy	strategy	NOUN	
+1	76	9	for	for	ADP	
+1	76	10	sustainable	sustainable	ADJ	
+1	76	11	development	development	NOUN	
+1	76	12	affects	affect	NOUN	
+1	76	13	,	,	PUNCT	
+1	76	14	and	and	CCONJ	
+1	76	15	sets	set	VERB	
+1	76	16	requirements	requirement	NOUN	
+1	76	17	for	for	ADP	
+1	76	18	,	,	PUNCT	
+1	76	19	"
+"	"
+"	SPACE	
+1	76	20	all	all	DET	
+1	76	21	parts	part	NOUN	
+1	76	22	of	of	ADP	
+1	76	23	Lund	Lund	PROPN	
+1	76	24	Univer-	Univer-	PROPN	
+1	76	25	" 
+"	" 
+"	SPACE	
+1	76	26	sity	sity	NOUN	
+1	76	27	.	.	PUNCT	
+1	77	1	Faculties	faculty	NOUN	
+1	77	2	and	and	CCONJ	
+1	77	3	other	other	ADJ	
+1	77	4	organisations	organisation	NOUN	
+1	77	5	within	within	ADP	
+1	77	6	the	the	DET	
+1	77	7	University	University	PROPN	ORG
+1	77	8	develop	develop	VERB	
+1	77	9	their	their	PRON	
+1	77	10	"
+"	"
+"	SPACE	
+1	77	11	specific	specific	ADJ	
+1	77	12	strategies	strategy	NOUN	
+1	77	13	as	as	ADV	
+1	77	14	well	well	ADV	
+1	77	15	" 
+"	" 
+"	SPACE	
+1	77	16	as	as	ADP	
+1	77	17	plan	plan	NOUN	
+1	77	18	and	and	CCONJ	
+1	77	19	run	run	VERB	
+1	77	20	their	their	PRON	
+1	77	21	operations	operation	NOUN	
+1	77	22	based	base	VERB	
+1	77	23	on	on	ADP	
+1	77	24	the	the	DET	
+1	77	25	strategy	strategy	NOUN	
+1	77	26	for	for	ADP	
+1	77	27	sustainable	sustainable	ADJ	
+1	77	28	"
+"	"
+"	SPACE	
+1	77	29	development	development	NOUN	
+1	77	30	.	.	PUNCT	
+1	78	1	Faculties	faculty	NOUN	
+1	78	2	and	and	CCONJ	
+1	78	3	" 
+"	" 
+"	SPACE	
+1	78	4	equivalent	equivalent	ADJ	
+1	78	5	organisations	organisation	NOUN	
+1	78	6	draw	draw	VERB	
+1	78	7	up	up	ADP	
+1	78	8	their	their	PRON	
+1	78	9	own	own	ADJ	
+1	78	10	action	action	NOUN	
+1	78	11	plans	plan	NOUN	
+1	78	12	that	that	PRON	
+1	78	13	outline	outline	NOUN	
+1	78	14	division	division	NOUN	
+1	78	15	"
+"	"
+"	SPACE	
+1	78	16	of	of	ADP	
+1	78	17	responsibilities	responsibility	NOUN	
+1	78	18	,	,	PUNCT	
+1	78	19	roles	role	NOUN	
+1	78	20	" 
+"	" 
+"	SPACE	
+1	78	21	and	and	CCONJ	
+1	78	22	resources	resource	NOUN	
+1	78	23	in	in	ADP	
+1	78	24	order	order	NOUN	
+1	78	25	to	to	PART	
+1	78	26	realise	realise	VERB	
+1	78	27	the	the	DET	
+1	78	28	visions	vision	NOUN	
+1	78	29	in	in	ADP	
+1	78	30	the	the	DET	
+1	78	31	strategy	strategy	NOUN	
+1	78	32	as	as	ADV	
+1	78	33	well	well	ADV	
+1	78	34	as	as	ADP	
+1	78	35	how	how	SCONJ	
+1	78	36	"
+"	"
+"	SPACE	
+1	78	37	these	these	DET	
+1	78	38	plans	plan	NOUN	
+1	78	39	are	be	AUX	
+1	78	40	to	to	PART	
+1	78	41	be	be	AUX	
+1	78	42	fol-	fol-	ADV	
+1	78	43	" 
+"	" 
+"	SPACE	
+1	78	44	lowed	low	VERB	
+1	78	45	up	up	ADP	
+1	78	46	,	,	PUNCT	
+1	78	47	evaluated	evaluate	VERB	
+1	78	48	and	and	CCONJ	
+1	78	49	,	,	PUNCT	
+1	78	50	if	if	SCONJ	
+1	78	51	required	require	VERB	
+1	78	52	,	,	PUNCT	
+1	78	53	revised	revise	VERB	
+1	78	54	.	.	PUNCT	
+1	79	1	As	as	ADP	
+1	79	2	the	the	DET	
+1	79	3	focus	focus	NOUN	
+1	79	4	,	,	PUNCT	
+1	79	5	conditions	condition	NOUN	
+1	79	6	and	and	CCONJ	
+1	79	7	"
+"	"
+"	SPACE	
+1	79	8	organisation	organisation	NOUN	
+1	79	9	of	of	ADP	
+1	79	10	work	work	NOUN	
+1	79	11	on	on	ADP	
+1	79	12	" 
+"	" 
+"	SPACE	
+1	79	13	sustainable	sustainable	ADJ	
+1	79	14	development	development	NOUN	
+1	79	15	management	management	NOUN	
+1	79	16	varies	vary	VERB	
+1	79	17	between	between	ADP	
+1	79	18	the	the	DET	
+1	79	19	University	University	PROPN	ORG
+1	79	20	’s	’s	PART	
+1	79	21	different	different	ADJ	
+1	79	22	"
+"	"
+"	SPACE	
+1	79	23	units	unit	NOUN	
+1	79	24	,	,	PUNCT	
+1	79	25	these	these	DET	
+1	79	26	deter-	deter-	NOUN	
+1	79	27	" 
+"	" 
+"	SPACE	
+1	79	28	mine	mine	NOUN	
+1	79	29	how	how	SCONJ	
+1	79	30	the	the	DET	
+1	79	31	work	work	NOUN	
+1	79	32	to	to	PART	
+1	79	33	achieve	achieve	VERB	
+1	79	34	Lund	Lund	PROPN	ORG
+1	79	35	University	University	PROPN	ORG
+1	79	36	’s	’s	PART	ORG
+1	79	37	shared	share	VERB	
+1	79	38	vision	vision	NOUN	
+1	79	39	and	and	CCONJ	
+1	79	40	goals	goal	NOUN	
+1	79	41	is	be	AUX	
+1	79	42	to	to	PART	
+1	79	43	"
+"	"
+"	SPACE	
+1	79	44	be	be	AUX	
+1	79	45	conducted	conduct	VERB	
+1	79	46	and	and	CCONJ	
+1	79	47	fol-	fol-	NOUN	
+1	79	48	" 
+"	" 
+"	SPACE	
+1	79	49	lowed	low	VERB	
+1	79	50	up	up	ADP	
+1	79	51	.	.	PUNCT	
+1	80	1	Overall	overall	ADJ	
+1	80	2	reporting	reporting	NOUN	
+1	80	3	,	,	PUNCT	
+1	80	4	with	with	ADP	
+1	80	5	associated	associate	VERB	
+1	80	6	evaluations	evaluation	NOUN	
+1	80	7	of	of	ADP	
+1	80	8	how	how	SCONJ	
+1	80	9	the	the	DET	
+1	80	10	strategy	strategy	NOUN	
+1	80	11	"
+"	"
+"	SPACE	
+1	80	12	is	be	AUX	
+1	80	13	being	be	AUX	
+1	80	14	implemented	implement	VERB	
+1	80	15	,	,	PUNCT	
+1	80	16	is	be	AUX	
+1	80	17	" 
+"	" 
+"	SPACE	
+1	80	18	carried	carry	VERB	
+1	80	19	out	out	ADP	
+1	80	20	annually	annually	ADV	DATE
+1	80	21	within	within	ADP	
+1	80	22	the	the	DET	
+1	80	23	framework	framework	NOUN	
+1	80	24	of	of	ADP	
+1	80	25	the	the	DET	
+1	80	26	annual	annual	ADJ	DATE
+1	80	27	report	report	NOUN	
+1	80	28	processes	process	VERB	
+1	80	29	at	at	ADP	
+1	80	30	"
+"	"
+"	SPACE	
+1	80	31	faculty	faculty	NOUN	
+1	80	32	level	level	NOUN	
+1	80	33	and	and	CCONJ	
+1	80	34	for	for	ADP	
+1	80	35	" 
+"	" 
+"	SPACE	
+1	80	36	Lund	Lund	PROPN	
+1	80	37	University	University	PROPN	
+1	80	38	as	as	ADP	
+1	80	39	a	a	DET	
+1	80	40	whole	whole	NOUN	
+1	80	41	.	.	PUNCT	
+1	81	1			PUNCT	
+1	81	2	Managers	manager	NOUN	ORG
+1	81	3	and	and	CCONJ	
+1	81	4	management	management	NOUN	
+1	81	5	groups	group	NOUN	
+1	81	6	at	at	ADP	
+1	81	7	all	all	DET	
+1	81	8	levels	level	NOUN	
+1	81	9	are	be	AUX	
+1	81	10	responsible	responsible	ADJ	
+1	81	11	for	for	ADP	
+1	81	12	considering	consider	VERB	
+1	81	13	"
+"	"
+"	SPACE	
+1	81	14	matters	matter	NOUN	
+1	81	15	" 
+
+"	" 
+
+"	SPACE	
+1	81	16	relating	relate	VERB	
+1	81	17	to	to	ADP	
+1	81	18	sustainable	sustainable	ADJ	
+1	81	19	development	development	NOUN	
+1	81	20	in	in	ADP	
+1	81	21	decision	decision	NOUN	
+1	81	22	,	,	PUNCT	
+1	81	23	implementation	implementation	NOUN	
+1	81	24	and	and	CCONJ	
+1	81	25	follow	follow	VERB	
+1	81	26	up	up	ADP	
+1	81	27	"
+"	"
+"	SPACE	
+1	81	28	processes	process	NOUN	
+1	81	29	.	.	PUNCT	
+1	82	1			PUNCT	
+1	82	2	All	all	DET	
+1	82	3	employees	employee	NOUN	
+1	82	4	are	be	AUX	
+1	82	5	responsible	responsible	ADJ	
+1	82	6	for	for	ADP	
+1	82	7	their	their	PRON	
+1	82	8	work	work	NOUN	
+1	82	9	contributing	contribute	VERB	
+1	82	10	to	to	ADP	
+1	82	11	the	the	DET	
+1	82	12	realisation	realisation	NOUN	
+1	82	13	"
+"	"
+"	SPACE	
+1	82	14	of	of	ADP	
+1	82	15	the	the	DET	
+1	82	16	strategy	strategy	NOUN	
+1	82	17	’s	’s	PART	
+1	82	18	inten-	inten-	NUM	
+1	82	19	" 
+
+"	" 
+
+"	SPACE	
+1	82	20	tions	tion	NOUN	
+1	82	21	.	.	PUNCT	
+1	83	1	Page	page	NOUN	
+1	83	2	:	:	PUNCT	
+1	83	3	1	1	NUM	CARDINAL
+1	83	4	,	,	PUNCT	
+1	83	5	2	2	NUM	DATE
+1	83	6	,	,	PUNCT	
+1	83	7	3	3	NUM	DATE
+1	83	8	,	,	PUNCT	
+1	83	9	4	4	NUM	CARDINAL
 2	1	1	Your	your	PRON	
 2	1	2	browser	browser	NOUN	
 2	1	3	has	have	AUX	
@@ -2995,7 +3049,7 @@ id	sentence_number	token_number	token_text	token_lemma	token_pos	token_entity
 2	6	43	[	[	PUNCT	
 2	6	44	_	_	NOUN	
 2	6	45	_	_	PUNCT	
-2	7	1	P	p	NOUN	
+2	7	1	På	på	NOUN	
 2	7	2	svenska](https://www.lu.se	svenska](https://www.lu.se	NOUN	
 2	7	3	/	/	SYM	
 2	7	4	om	om	NOUN	
@@ -3276,44 +3330,45 @@ id	sentence_number	token_number	token_text	token_lemma	token_pos	token_entity
 2	17	4	for	for	ADP	
 2	17	5	sustainable	sustainable	ADJ	
 2	17	6	development	development	NOUN	
-2	17	7	"
+2	17	7	–	–	PUNCT	
+2	17	8	"
 "	"
 "	SPACE	
-2	17	8	globalgoals.org](https://www.globalgoals.org/	globalgoals.org](https://www.globalgoals.org/	PROPN	
-2	17	9	)	)	PUNCT	
-2	17	10	"
+2	17	9	globalgoals.org](https://www.globalgoals.org/	globalgoals.org](https://www.globalgoals.org/	PROPN	
+2	17	10	)	)	PUNCT	
+2	17	11	"
 
 "	"
 
 "	SPACE	
-2	17	11	#	#	SYM	MONEY
-2	17	12	#	#	NOUN	MONEY
-2	17	13	Education	education	NOUN	MONEY
-2	17	14	"
+2	17	12	#	#	SYM	MONEY
+2	17	13	#	#	NOUN	MONEY
+2	17	14	Education	education	NOUN	MONEY
+2	17	15	"
 
 "	"
 
 "	SPACE	
-2	17	15	Our	our	PRON	
-2	17	16	courses	course	NOUN	
-2	17	17	and	and	CCONJ	
-2	17	18	programmes	programme	NOUN	
-2	17	19	offer	offer	VERB	
-2	17	20	students	student	NOUN	
-2	17	21	diverse	diverse	ADJ	
-2	17	22	perspectives	perspective	NOUN	
-2	17	23	on	on	ADP	
-2	17	24	sustainable	sustainable	ADJ	
-2	17	25	"
+2	17	16	Our	our	PRON	
+2	17	17	courses	course	NOUN	
+2	17	18	and	and	CCONJ	
+2	17	19	programmes	programme	NOUN	
+2	17	20	offer	offer	VERB	
+2	17	21	students	student	NOUN	
+2	17	22	diverse	diverse	ADJ	
+2	17	23	perspectives	perspective	NOUN	
+2	17	24	on	on	ADP	
+2	17	25	sustainable	sustainable	ADJ	
+2	17	26	"
 "	"
 "	SPACE	
-2	17	26	development	development	NOUN	
-2	17	27	across	across	ADP	
-2	17	28	a	a	DET	
-2	17	29	range	range	NOUN	
-2	17	30	of	of	ADP	
-2	17	31	disciplines	discipline	NOUN	
-2	17	32	.	.	PUNCT	
+2	17	27	development	development	NOUN	
+2	17	28	across	across	ADP	
+2	17	29	a	a	DET	
+2	17	30	range	range	NOUN	
+2	17	31	of	of	ADP	
+2	17	32	disciplines	discipline	NOUN	
+2	17	33	.	.	PUNCT	
 2	18	1	From	from	ADP	
 2	18	2	Bachelor	Bachelor	PROPN	ORG
 2	18	3	's	's	PART	
@@ -3841,7 +3896,7 @@ id	sentence_number	token_number	token_text	token_lemma	token_pos	token_entity
 2	35	1	[	[	PUNCT	
 2	35	2	Sustainable	sustainable	ADJ	
 2	35	3	planet	planet	NOUN	
-2	35	4	 	 	SPACE	
+2	35	4	–	–	PUNCT	
 2	35	5	research	research	NOUN	
 2	35	6	that	that	PRON	
 2	35	7	addresses	address	VERB	
@@ -4118,8 +4173,8 @@ id	sentence_number	token_number	token_text	token_lemma	token_pos	token_entity
 2	45	10	*	*	PUNCT	
 2	45	11	*	*	PUNCT	
 2	45	12	Claes	Claes	PROPN	PERSON
-2	45	13	Niln	Niln	PROPN	PERSON
-2	45	14	*	*	PROPN	
+2	45	13	Nilén	Nilén	PROPN	PERSON
+2	45	14	*	*	PUNCT	
 2	45	15	*	*	PUNCT	
 2	45	16	" 
 "	" 
@@ -4169,9 +4224,9 @@ id	sentence_number	token_number	token_text	token_lemma	token_pos	token_entity
 "	SPACE	
 2	50	10	*	*	PUNCT	
 2	50	11	*	*	PUNCT	
-2	50	12	Ann	ann	NOUN	
-2	50	13	kerman	kerman	NOUN	
-2	50	14	*	*	NOUN	
+2	50	12	Ann	Ann	PROPN	PERSON
+2	50	13	Åkerman	Åkerman	PROPN	PERSON
+2	50	14	*	*	PROPN	
 2	50	15	*	*	PUNCT	
 2	50	16	" 
 "	" 
@@ -4485,11 +4540,11 @@ id	sentence_number	token_number	token_text	token_lemma	token_pos	token_entity
 2	64	34	for	for	ADP	ORG
 2	64	35	Lund	Lund	PROPN	ORG
 2	64	36	University	University	PROPN	ORG
-2	64	37	20202026	20202026	NUM	DATE
+2	64	37	2020–2026	2020–2026	NUM	CARDINAL
 2	64	38	(	(	PUNCT	
-2	64	39	PDF	PDF	PROPN	ORG
-2	64	40	3.8	3.8	NUM	
-2	64	41	MB	MB	NOUN	
+2	64	39	PDF	pdf	NOUN	ORG
+2	64	40	3.8	3.8	NUM	ORG
+2	64	41	MB	MB	NOUN	ORG
 2	64	42	,	,	PUNCT	
 2	64	43	new	new	ADJ	
 2	64	44	"
@@ -4556,7 +4611,7 @@ id	sentence_number	token_number	token_text	token_lemma	token_pos	token_entity
 2	64	91	(	(	PUNCT	
 2	64	92	in	in	ADP	
 2	64	93	Swedish	swedish	ADJ	NORP
-2	64	94	 	 	SPACE	
+2	64	94	–	–	PUNCT	
 2	64	95	events	event	NOUN	
 2	64	96	in	in	ADP	
 2	64	97	English	English	PROPN	LANGUAGE
@@ -4786,17 +4841,18 @@ id	sentence_number	token_number	token_text	token_lemma	token_pos	token_entity
 "	"
 "	SPACE	
 2	72	13	in	in	ADP	
-2	72	14	everyones	everyone	NOUN	
-2	72	15	best	good	ADJ	
-2	72	16	interest	interest	NOUN	
-2	72	17	,	,	PUNCT	
-2	72	18	and	and	CCONJ	
-2	72	19	should	should	AUX	
-2	72	20	involve	involve	VERB	
-2	72	21	all	all	PRON	
-2	72	22	of	of	ADP	
-2	72	23	us	we	PRON	
-2	72	24	.	.	PUNCT	
+2	72	14	everyone	everyone	PRON	
+2	72	15	’s	’s	PART	
+2	72	16	best	good	ADJ	
+2	72	17	interest	interest	NOUN	
+2	72	18	,	,	PUNCT	
+2	72	19	and	and	CCONJ	
+2	72	20	should	should	AUX	
+2	72	21	involve	involve	VERB	
+2	72	22	all	all	PRON	
+2	72	23	of	of	ADP	
+2	72	24	us	we	PRON	
+2	72	25	.	.	PUNCT	
 2	73	1	But	but	CCONJ	
 2	73	2	how	how	SCONJ	
 2	73	3	good	good	ADJ	
