@@ -10,8 +10,8 @@
 
 ---
 
-- [internal repo](https://github.com/nils-holmberg/some-repo/)
-- [external website](https://nils-holmberg.github.io/some-repo/)
+- [internal repo](https://github.com/cca-cce/osm-cca-nlp/)
+- [external website](https://cca-cce.github.io/osm-cca-nlp/)
 
 
 
